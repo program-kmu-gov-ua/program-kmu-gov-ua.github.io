@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<html lang="uk-UA">
+<head>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-149413617-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-149413617-1');
+        </script>
+        <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <meta property="og:image" width="1200" height="630" content="https://program.kmu.gov.ua/image/og.jpg" />
+
+        <title>Програма діяльності Уряду | Люди активно подорожують Україною в цілях туризму</title>
+    <meta property="og:title" content="Програма діяльності Уряду | Люди активно подорожують Україною в цілях туризму">
+<meta property="og:type" content="website">
+<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="NbAJSJ_5h0LmxHGsumAitycTdTmU2SCRbOiUb-WslvNehUow9IrtG5T3FMD4AUDTXnQzWPzpRs48rNEh05XQgg==">
+
+<link href="/assets/d6556b45/css/bootstrap.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+<link href="//use.fontawesome.com/releases/v5.7.2/css/all.css" rel="stylesheet"></head>
+<body>
+<nav class="navbar_box">
+    <div class="container">
+        <div class="row">
+            <ul class="navbar-nav nav hidden-xs">
+                <li class="">
+    <a href="/" title="Програма діяльності">Програма діяльності</a>
+</li>
+<li class="">
+    <a href="/report" title="Звіт Уряду. Топ 100 досягнень">Звіт Уряду. Топ 100 досягнень</a>
+</li>
+<li class="">
+    <a href="/report/program-execution/2019" title="Звіт виконання програми">Звіт з виконання Програми</a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="reports-menu-wrap hidden-sm hidden-md hidden-lg">
+        <a href="/" class="logo-navigation">
+            <img src="/files/logo-kmu.svg" alt="alt">
+        </a>
+        <div class="reports-menu" data-toggle="collapse" data-target=".navbar-collapse">
+            <img src="/files/ic-menu.svg" alt="alt">
+        </div>
+    </div>
+    <!-- Mobile menu -->
+    <div class="hidden-sm hidden-md hidden-lg">
+        <div class="mobile-menu collapse navbar-collapse">
+            <ul class="nav">
+                <li class="">
+    <a href="/" title="Програма діяльності">Програма діяльності</a>
+</li>
+<li class="">
+    <a href="/report" title="Звіт Уряду. Топ 100 досягнень">Звіт Уряду. Топ 100 досягнень</a>
+</li>
+<li class="">
+    <a href="/report/program-execution/2019" title="Звіт виконання програми">Звіт з виконання Програми</a>
+</li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- header -->
+<header class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <a href="/" class="logo-title hidden-xs">
+                    <img src="/files/logo-kmu.svg" alt="#">
+                </a>
+                <h1 class="section-title hidden-sm hidden-md hidden-lg">Уряд&nbsp; <span class="yellow-bg">УКРАЇНИ</span> <span class="ua-bg">ua</span></h1>
+            </div>
+            <div class="col-auto">
+                                                            <div class="link-download">
+                            <a target="_blank" href="/files/План реалізації - Ціль 4.6.(проект).docx" class="btn btn-primary"><i class="fas fa-file-download"></i> Проект концепції та плану</a>
+                        </div>
+                                                </div>
+        </div>
+    </div>
+</header>
+
+<div class="body-bg">
+    <img src="/image/bg.jpg" alt="#">
+</div>
+<section style="padding-top: 0 !important;" class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-head">
+                    <h1 class="section-title hidden-xs">Уряд&nbsp; <span class="yellow-bg">УКРАЇНИ</span> <span class="ua-bg">ua</span></h1>
+                                            <section class="program-title">
+                            <h1 class="">Програма діяльності <br> Кабінету Міністрів УкраЇни</h1>
+                        </section>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+            <section class="section">
+            <div class="container">
+                <ul class="breadcrumb"><li><a href="/">Програма діяльності Уряду</a></li>
+<li title='Міністерство культури, молоді та спорту України' > <a href="/ministry/ministerstvo-kulturi-molodi-ta-sportu-ukraini">Міністерство культури, молоді та спорту...</a></li><li class="active">4.6. Люди активно подорожують Україною в...</li>
+</ul>            </div>
+        </section>
+    <div class="goal-section">
+    <div class="container">
+        <div class="row">
+    <div class="col-12 col-sm-4 order-2">
+        <div class="office-block ministry">
+    <div class="office-title">
+        Міністерство культури, молоді та спорту України    </div>
+    <div class="office-boss">
+        <div class="boss-ava">
+            <img src="/image/users/160x160/U_df1e797f-7838-4765-84d7-b114e3fc63d1-1575191134.jpg" alt="#">
+        </div>
+        <div class="boss-name-block">
+            <div class="boss-name"><b>Бородянський Володимир</b></div>
+            <div class="boss-work">Міністр</div>
+        </div>
+    </div>
+    <div class="office-btn">
+        <a href="/ministry/ministerstvo-kulturi-molodi-ta-sportu-ukraini" class="btn btn-primary"><i class="fa fa-university"></i> Сторінка
+            міністерства</a>
+    </div>
+            <div class="office-btn">
+            <a href="http://mip.gov.ua/content/kontakti.html" target="_blank" class="btn btn-primary"><i
+                        class="fa fa-envelope"></i> Зворотній зв'зок</a>
+        </div>
+    </div>
+
+    <div class="office-block responsives">
+        <div class="office-title">
+            Відповідальний        </div>
+        <div class="goals-desc">
+            <ul>
+                                    <li>Сівірін Олексій Станіславович                        <div>
+                            <i>
+                                <small>
+                                    Заступник міністра                                </small>
+                            </i>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+
+<div class="office-block responsives" id="sticky-navigation">
+    <div class="office-title">Навігація</div>
+    <div class="goals-desc">
+        <ul>
+            <li><a href="#step_1">Ціль</a></li>
+            <li><a href="#step_2">Проблема політики</a></li>
+            <li><a href="#step_3">Пропонований курс політики</a></li>
+            <li><a href="#step_4">Проект плану реалізації концепції політики</a></li>
+                        <li><a href="#step_5">Звіт з виконання цілі</a></li>
+                    </ul>
+    </div>
+</div>
+    </div>
+    <div class="col-12 col-sm-8">
+        
+<h2 class="block-title"><a name="step_1">Ціль</a></h2>
+<div class="office-block">
+    <div class="office-title">
+        <i class="fas fa-flag"></i> Ціль
+    </div>
+    <div class="goals-desc">
+        <h3 class="sub-title">4.6. Люди активно подорожують Україною в цілях туризму</h3>
+                    <div class="all-text"><p>Україна є багатою на природні, історичні та культурні об&rsquo;єкти, що можуть приваблювати мільйони туристів з усього світу. Ми хочемо створити можливості для активного подорожування країною як громадян, так і зовнішніх туристів. Для цього планується насамперед визначення місця України на туристичній мапі світу, створення брендів з існуючих точок притягання та запуск внутрішніх і зовнішніх програм з їх промоції.&nbsp;</p>
+
+<p>Не менш значущим для промоції України є приєднання її до існуючих та нових мереж європейських туристично-культурних маршрутів. Єднання та інтеграція різних спільнот навколо історії, культурного надбання, туристичних цікавинок створять можливість для подальшої бізнес співпраці та інвестицій в громади.</p>
+
+<p>Це сприятиме підвищенню частки культурного, креативного продукту, спорту і туризму до 12&ndash;14% ВВП.</p>
+</div>
+            <p><a href="#" class="moretext"><span class="visible-open">Згорнути</span><span class="hidden-open">Переглянути більше</span><i
+                            class="fas fa-chevron-down"></i></a></p>
+            </div>
+</div>
+
+    <h2 class="block-title">ПРОЕКТ Концепції державної політики щодо досягнення цілі 4.6. «Люди активно подорожують Україною в цілях туризму» Програми діяльності Кабінету Міністрів України</h2>
+
+    <h2 class="block-title"><a name="step_2">1. Проблема політики</a></h2>
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-exclamation-circle"></i>1.1. Кількість туристів що подорожують Україною менша туристичного потенціалу України        </div>
+        <div class="goals-desc">
+            <div class="stak-block">
+                <div class="stak-img">
+                    <i class="fas fa-users"></i>
+                </div>
+                <div class="stak-desc">
+                                            <div class="stak-name">1.2. Носій проблеми
+                            (клієнт; суспільна група, яка страждає від проблеми)
+                        </div>
+                                        <div>
+                        Локальні громади регіонів з високим туристичним потенціалом                    </div>
+                </div>
+            </div>
+
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.3. Масштаб проблеми</div>
+                    <div>
+                        <span class="badge badge-danger">Загальнонаціональна</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p><p>Частка прямого внеску туризму до ВВП в Україні становить лише 1.4%, що є значно нижчим за світові бенчмарки (5-10%)</p>
+</p>
+                </div>
+            </div>
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.4. Гострота проблеми</div>
+                    <div>
+                        <span class="badge badge-danger">Гостра</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p>Економіка втрачає до 1п.п. росту ВВП на рік; окремі громади втрачають до 10п.п.</p>
+                </div>
+            </div>
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.5. Динаміка проблеми</div>
+                    <div>
+                        <span class="badge badge-danger">Негативна</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p><p>Після окупації Криму Росією та початку війни кількість туристів знизилася (показники необхідно уточнити; достовірних даних наразі немає, дані по кількості в&rsquo;їздів в Україну не відповідають кількості туристів)</p>
+</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-list"></i>1.6. Причини проблеми
+        </div>
+        <div class="goals-desc">
+            <div class="block-group-wrap">
+                                    <div class="block-group">
+                        <h5>Причина 1 &ndash; Недостатня кількість якісного туристичного продукту, який здатен приваблювати туристів (натомість ставлення точок тяжіння як до об’єктів, що мають безумовно приваблювати туристів)</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 2 &ndash; Окупація Криму та продовження збройного конфлікту на Сході України</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 3 &ndash; Складний візовий режим з країнами з високим туристичним потенціалом</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 4 &ndash; Слабкий бренд України як туристичної дестинації</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 5 &ndash; Занепад туристичної інфраструктури та низький рівень якості сервісу</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 6 &ndash; Низький рівень володіння англійською мовою у сервісі</h5>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+
+<div class="office-block">
+    <div class="office-title">
+                    <i class="fas fa-chart-pie"></i>1.7. Показники ефективності політики
+            </div>
+    <div class="goals-desc">
+        <ul>
+                            <li>Кількість закордонних туристів зростає як мінімум на 500 000 щороку</li>
+                            <li>Кількість людей, що виїжджали до іншої області, зросла вдвічі</li>
+                    </ul>
+    </div>
+</div>
+
+
+    <h2 class="block-title"><a name="step_3">2. Пропонований курс політики</a></h2>
+            <div class="office-block">
+            <div class="office-title">
+                <i class="fas fa-list"></i> Підцілі
+            </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        1. Створення туристичних продуктів на базі наявних об’єктів тяжіння                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Кількість готових туристичних продуктів</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Створення позиціонування, бренду, концепції просування окремих туристичних продуктів</li>
+                                                                                            <li>Створення умов для реалізації проектів державно-приватного партнерства у сфері туризму (ДПП)</li>
+                                                                                            <li>Розвиток фізичної інфраструктури навколо об’єктів тяжіння (отелі, ресторани, дороги)</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        2. Створення позиціонування і бренду України як туристичної дестинації                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Індекс сприйняття України як туристичної дестинації відповідно до концепції у вибраних пріоритетних країнах</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Розробка концепції розвитку галузі з залученням регіонів, міст, та інших органів виконавчої влади з баченням розвитку сфери через 5-10-20 років</li>
+                                                                                            <li>Удосконалення туристичного бренду України</li>
+                                                                                            <li>Створення єдиного туристичного порталу України</li>
+                                                                                            <li>Запуск кампанії промоції України в пріоритетних країнах (пріоритетні країни потребують визначення)</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        3. Покращення спроможності місцевих громад розвивати туристичні продукти                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Відсоток регіонального ВВП, що створюється туризмом</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Навчання громад роботі з туристичними продуктами</li>
+                                                                                            <li>Підтримка програм розвитку якості сервісу в регіонах</li>
+                                                                                            <li>Допомога громадам у створенні туристичного продукту – розробка планів створення туристичного продукту з об’єктів тяжіння, створення бренду, тощо</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        4. Спрощення візового режиму з країнами з високим туристичним потенціалом                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Кількість країн з високим туристичним потенціалом з якими є спрощений візовий режим</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Перегляд візового режиму та адміністративних процедур з країнами з високим туристичним потенціалом</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        5. Створення інфраструктури підтримки іноземних туристів                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Показник NPS для України як туристичної дестинації</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Створення єдиного центру безпеки туристів – єдиного вікна допомоги (всіх типів) іноземним туристам в Україні</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                    </div>
+    
+    
+    <h2 class="block-title"><a name="step_4">Проект плану реалізації концепції політики</a></h2>
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-list"></i> Заходи
+        </div>
+        <div class="goals-desc">
+            <div class="" style="width: 100%; overflow-x: auto">
+                <table class="table">
+                                            <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Створення позиціонування, бренду, концепції просування окремих туристичних продуктів                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Формування плану і програми вибору і роботи з пілотними об'єктами/регіонами</td>
+                                    <td>01.12.2019</td>
+                                    <td>31.01.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Відбір пілотних об'єктів/регіонів для розробки концепції</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Створення бренду і продукту з відібраних об'єктів/регіонів</td>
+                                    <td>01.04.2020</td>
+                                    <td>30.09.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Створення умов для реалізації проектів державно-приватного партнерства у сфері туризму (ДПП)                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Визначення цільового стану регулювання; аналіз чинного законодавства з визначенням перешкод для створення державно-приватного партнерства</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Внесення змін в чинне законодавство для уможливлення створення державно-приватного партнерства</td>
+                                    <td>01.04.2020</td>
+                                    <td>30.06.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розвиток фізичної інфраструктури навколо об’єктів тяжіння (отелі, ресторани, дороги)                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>На визначених пілотних регіонах/об'єктах створення/оновлення логістичної інфраструктури (дороги, вокзали, тощо)</td>
+                                    <td>01.04.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС; Мінінфраструктури; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розробка концепції розвитку галузі з залученням регіонів, міст, та інших органів виконавчої влади з баченням розвитку сфери через 5-10-20 років                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Відбір 5 пілотних регіонів для розробки концепції</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Створення концепції розвитку туризму регіону як частини загальної</td>
+                                    <td>01.04.2020</td>
+                                    <td>30.06.2020</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Удосконалення туристичного бренду України                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка і узгодження місця України (поточного і перспективного) на світовому ринку туризму</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка оновленого бренду України який відображатиме визначене позиціонування</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.06.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Створення єдиного туристичного порталу України                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Створення єдиного електронного туристичного порталу для туристів (в тому числі з навігаційно безпековим модулем)</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.09.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Запуск кампанії промоції України в пріоритетних країнах (пріоритетні країни потребують визначення)                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Визначення і затвердження 6 пріоритетних країн з високим туристичним потенціалом</td>
+                                    <td>01.12.2019</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Створення програми кампанії для кожної країни</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Реалізація кампанії промоції в 6 пріоритетних країнах</td>
+                                    <td>01.04.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Навчання громад роботі з туристичними продуктами                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Проведення тренінгів для органів місцевого самоврядування і локальних бізнесів з створення продукту з об'єктів тяжіння</td>
+                                    <td>01.04.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Підтримка програм розвитку якості сервісу в регіонах                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Проведення тренінгів для локальних бізнесів з покращення якості сервісу</td>
+                                    <td>01.04.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Допомога громадам у створенні туристичного продукту – розробка планів створення туристичного продукту з об’єктів тяжіння, створення бренду, тощо                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Визначення пілотних регіонів і об'єктів для створення продуктів</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Створення туристичних продуктів з пілотних об'єктів</td>
+                                    <td>01.04.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Перегляд візового режиму та адміністративних процедур з країнами з високим туристичним потенціалом                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Визначення пріоритетних країн з найвищим туристичним потенціалом</td>
+                                    <td>01.12.2019</td>
+                                    <td>31.12.2019</td>
+                                    <td>МКМС; МЗС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Узгодження нового візового режиму з МЗС та силовими структурами</td>
+                                    <td>01.12.2019</td>
+                                    <td>31.01.2020</td>
+                                    <td>МКМС; МЗС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Запровадження спрощеного візового режиму для вибраних країн з високим туристичним потенціалом</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС; МЗС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Створення єдиного центру безпеки туристів – єдиного вікна допомоги (всіх типів) іноземним туристам в Україні                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Створення єдиного порталу безпеки туристів (онлайн та телефонного)</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.06.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Створення локальних туристично-інформаційних центрів</td>
+                                    <td>01.04.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                                                        </table>
+            </div>
+        </div>
+    </div>
+
+    <h2 class="block-title"><a name="step_5">Звіт з виконання цілі</a></h2>
+<div class="office-block">
+    <div class="office-title">
+        <i class="fas fa-list"></i> Звіт 2019
+    </div>
+    <div class="goals-desc">
+        <div class="text text-report-content">
+            <p class="MsoNormal"><span lang="UK">Утворено
+Державне агентство розвитку туризму – центральний орган виконавчої влади,
+основним завданням якого є реалізація державної політики у сфері туризму та
+курортів (крім здійснення державного нагляду (контролю) у сфері туризму та
+курортів) (постанова Кабінету Міністрів України від 4 грудня 2019 р. №&nbsp;995)
+та затверджено Положення про нього (постанова Кабінету Міністрів України від 24
+грудня 2019 р. № 1162).<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Вперше на розвиток туризму в Україні закладено кошти в
+обсязі 240&nbsp; млн.&nbsp; гривень. Для цього планується визначення місця України
+на туристичній мапі світу, запуск внутрішніх і зовнішніх програм з їх промоції.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Продовжено реалізацію культурно-мистецьких проектів –
+переможців конкурсу “Малі міста – великі враження” – міжсекторальних проектів
+державно-приватного партнерства, спрямованих на стимулювання культурного
+розвитку малих міст і територій та промоції культурної спадщини, покликаних
+об’єднувати громади, давати поштовх для їх розвитку та успішного проведення
+децентралізації в сфері культури. Понад 350 тис. глядачів взяло безпосередню
+участь в 71 проекті в 23 областях України, з медіа-аудиторією у понад 12 млн. осіб
+та співфінансуванням у 13,46 млн. грн. з місцевих бюджетів, що надало відчутний
+поштовх для розвитку подієвого туризму в громадах.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">За інформацією МЗС протягом 2019 року оформлено 152&nbsp;632
+візи для в’їзду в Україну, з яких 35&nbsp;001 е-Віза (зокрема, у вересні –
+грудні 2019 року оформлено 11&nbsp;528 е-Віз).<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><i>З метою удосконалення системи контролю за забезпеченням
+організації відвідування зони відчуження і зони безумовного (обов’язкового)
+відселення, безперебійного перетину та безпечного перебування відвідувачів у
+зазначених зонах Мінекоенерго спільно з ДАЗВ:<o:p></o:p></i></span></p><p class="MsoNormal"><!--[if !supportLists]--><span lang="UK">&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;</span><span lang="UK">на території зони відчуження
+і зони безумовного (обов’язкового) відселення введено в дію систему контролю
+доступу, складовою якої є електронний квиток, та встановлені стаціонарні та
+запроваджені мобільні QR зчитувачі;<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;</span>створено та введено в
+експлуатацію сучасний інформаційний центр для відвідувачів зони відчуження на
+контрольно-пропускному пункті “Дитятки”; <o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;</span>забезпечено функціонування
+мобільних контрольно-пропускних пунктів та контрольно-дозиметричних пунктів на
+річці Прип’ять; <o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;</span>введено 21 маршрут
+відвідування, у тому числі водний і повітряний;<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;</span>проведено перевірки
+технічного стану контрольно-дозиметричних пунктів;<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;</span>розроблено схеми переміщення
+відвідувачів на контрольно-пропускних пунктах; <o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;</span>розроблено проект постанови
+Кабінету Міністрів України “Про затвердження Порядку відвідування зони відчуження
+і зони безумовного (обов’язкового) відселення”, яким, зокрема, визначаються
+відповідальні за організацію та супровід відвідування; передбачається доступ до
+електронного кабінету правоохоронних органів; визначаються відомості, що мають
+міститися у запиті про намір відвідування, та підстави для відмови у
+відвідуванні; визначаються обов’язки відвідувачів та обмеження під час
+відвідування тощо.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Завдяки виконанню зазначених заходів:<o:p></o:p></span></p><p class="MsoNormal"><!--[if !supportLists]--><span lang="UK">-&nbsp; &nbsp;&nbsp;</span><span lang="UK">скорочено
+час, необхідний на оформлення перепустки, з 15 до 3 хв., що дало змогу
+збільшити пропускну спроможність контрольно-пропускних пунктів вп’ятеро; <o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>-&nbsp; &nbsp;&nbsp;</span>мобільні
+QR зчитувачі забезпечують гнучку систему визначення місця перетину кордону зони
+відчуження (у тому числі на водних маршрутах без необхідності відвідування
+стаціонарного контрольно-пропускного пункту на суші);<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>-&nbsp; &nbsp;&nbsp;</span>оперативно
+координується пересування груп відвідувачів територією зони відчуження та зроблено
+це пересування більш безпечним.<o:p></o:p></span></p><p class="MsoNormal"><strong><i><span lang="UK">Подальші
+заплановані дії</span><span lang="UK"><o:p></o:p></span></i></strong></p><ul><li><span lang="UK">Формування
+туристичного бренду України через запуск масштабної кампанії просування України
+як туристичної дестинації у 5 пріоритетних країнах (Німеччина, Польща, Індія,
+Китай, Білорусь).</span></li><li>Посилення
+туристичної конкурентоспроможності громад та територій шляхом експертної,
+стратегічної та іншої допомоги органам місцевого самоврядування з перетворення
+існуючих туристичних об’єктів у місцеві туристичні бренди.</li><li>Створення єдиного
+туристичного порталу для іноземних та внутрішніх туристів, який надаватиме
+інформацію на 6<span lang="UK">–8 мовах про привабливі місця для подорожі, доступні
+маршрути та місця розміщення, додаткову корисну інформацію (візи, консульства),
+а також міститиме безпековий модуль (включаючи кол-центр).</span></li><li>Запуск програм
+навчання <span lang="UK">для органів місцевого самоврядування (маркетинг для створення
+унікальних локальних туристичних брендів), а також розвитку навичок у
+працівників сфери гостинності з сервісного обслуговування в регіонах, що
+підвищить туристичні потоки.</span></li><li>Послаблення
+візового режиму з країнами з високим туристичним потенціалом.</li><li>Затвердження Порядку відвідування зони
+відчуження і зони безумовного (обов’язкового) відселення.</li></ul>        </div>
+        <div class="office-btn">
+            <a href="/report/program-execution/2019#ludi-aktivno-podorozuut-ukrainou-v-cilah-turizmu" class="btn btn-primary">Переглянути повний звіт</a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+    </div>
+    <button onclick="topFunction()" id="back-btn"><i class="fas fa-angle-up"></i></button>
+</div>
+<footer class="footer">
+    <div class="container">
+    </div>
+</footer>
+
+<script src="/assets/b0e5218f/jquery.js"></script>
+<script src="/assets/e65f7296/yii.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="/js/script.js"></script></body>
+</html>

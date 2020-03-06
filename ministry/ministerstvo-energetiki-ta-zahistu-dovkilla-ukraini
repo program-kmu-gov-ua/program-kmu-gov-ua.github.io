@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="uk-UA">
+<head>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-149413617-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-149413617-1');
+        </script>
+        <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <meta property="og:image" width="1200" height="630" content="https://program.kmu.gov.ua/image/og.jpg" />
+
+        <title>Програма діяльності Уряду | Міністерство енергетики та захисту довкілля України</title>
+    <meta property="og:title" content="Програма діяльності Уряду | Міністерство енергетики та захисту довкілля України">
+<meta property="og:type" content="website">
+<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="eZgHvjdNhY9D1xOnM8T7r6UOkqd0o-Pwq_k529ceuYESrUTGXD7v1jHkdstxpZnL3GnUxhyTha_7vXyV4Sf_8A==">
+
+<link href="/assets/d6556b45/css/bootstrap.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+<link href="//use.fontawesome.com/releases/v5.7.2/css/all.css" rel="stylesheet"></head>
+<body>
+<nav class="navbar_box">
+    <div class="container">
+        <div class="row">
+            <ul class="navbar-nav nav hidden-xs">
+                <li class="">
+    <a href="/" title="Програма діяльності">Програма діяльності</a>
+</li>
+<li class="">
+    <a href="/report" title="Звіт Уряду. Топ 100 досягнень">Звіт Уряду. Топ 100 досягнень</a>
+</li>
+<li class="">
+    <a href="/report/program-execution/2019" title="Звіт виконання програми">Звіт з виконання Програми</a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="reports-menu-wrap hidden-sm hidden-md hidden-lg">
+        <a href="/" class="logo-navigation">
+            <img src="/files/logo-kmu.svg" alt="alt">
+        </a>
+        <div class="reports-menu" data-toggle="collapse" data-target=".navbar-collapse">
+            <img src="/files/ic-menu.svg" alt="alt">
+        </div>
+    </div>
+    <!-- Mobile menu -->
+    <div class="hidden-sm hidden-md hidden-lg">
+        <div class="mobile-menu collapse navbar-collapse">
+            <ul class="nav">
+                <li class="">
+    <a href="/" title="Програма діяльності">Програма діяльності</a>
+</li>
+<li class="">
+    <a href="/report" title="Звіт Уряду. Топ 100 досягнень">Звіт Уряду. Топ 100 досягнень</a>
+</li>
+<li class="">
+    <a href="/report/program-execution/2019" title="Звіт виконання програми">Звіт з виконання Програми</a>
+</li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- header -->
+<header class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <a href="/" class="logo-title hidden-xs">
+                    <img src="/files/logo-kmu.svg" alt="#">
+                </a>
+                <h1 class="section-title hidden-sm hidden-md hidden-lg">Уряд&nbsp; <span class="yellow-bg">УКРАЇНИ</span> <span class="ua-bg">ua</span></h1>
+            </div>
+            <div class="col-auto">
+                            </div>
+        </div>
+    </div>
+</header>
+
+<div class="body-bg">
+    <img src="/image/bg.jpg" alt="#">
+</div>
+<section style="padding-top: 0 !important;" class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-head">
+                    <h1 class="section-title hidden-xs">Уряд&nbsp; <span class="yellow-bg">УКРАЇНИ</span> <span class="ua-bg">ua</span></h1>
+                                            <section class="program-title">
+                            <h1 class="">Програма діяльності <br> Кабінету Міністрів УкраЇни</h1>
+                        </section>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+            <section class="section">
+            <div class="container">
+                <ul class="breadcrumb"><li><a href="/">Програма діяльності Уряду</a></li>
+<li class="active">Міністерство енергетики та захисту довкілля України</li>
+</ul>            </div>
+        </section>
+    <div class="goal-section">
+    <div class="container">
+        
+<div class="site-index">
+    <div class="body-content">
+        <div class="row">
+            <div class="col-12 col-sm-4 order-2">
+                <div class="office-block ministry">
+                    <div class="office-title">Керівництво</div>
+                    <div class="office-boss">
+                        <div class="boss-ava">
+                            <img src="/image/users/160x160/U_bcea4779-46ec-4c4c-8c2e-0d9131ebdf60-1575191062.jpg" alt="#">
+                        </div>
+                        <div class="boss-name-block">
+                            <div class="boss-name"><b>Оржель Олексій</b></div>
+                            <div class="boss-work">Міністр</div>
+                        </div>
+                    </div>
+                                            <div class="office-btn">
+                            <a href="http://mpe.kmu.gov.ua/minugol/control/uk/publish/article?art_id=245097665&cat_id=244896105" target="_blank" class="btn btn-primary"><i class="fa fa-envelope"></i>  Зворотній зв'зок</a>
+                        </div>
+                                    </div>
+            </div>
+            <div class="col-12 col-sm-8">
+                <div class="office-block">
+                    <div class="office-title">
+                        <i class="fas fa-flag"></i> Цілі
+                    </div>
+                    <div class="goals-desc">
+                        <ul>
+                                                            <li><a href="/meta/mensa-kilkist-ukrainciv-perebuvae-za-mezeu-energeticnoi-bidnosti-ta-pidviseno-energoefektivnist-ekonomiki">9.1. Менша кількість українців перебуває за межею енергетичної бідності та підвищено енергоефективність економіки</a></li>
+                                                            <li><a href="/meta/ukrainski-spozivaci-ta-ukrainskij-biznes-splacuut-spravedlivu-cinu-za-akisni-energeticni-tovari">9.2. Українські споживачі та український бізнес сплачують справедливу ціну за якісні енергетичні товари</a></li>
+                                                            <li><a href="/meta/ukraincu-ne-zagrozuut-riziki-zalisitis-bez-energozabezpecenna">9.3. Українцю не загрожують ризики залишитись без енергозабезпечення</a></li>
+                                                            <li><a href="/meta/ukrainec-zive-u-spriatlivomu-ta-cistomu-navkolisnomu-seredovisi">9.4. Українець живе у сприятливому та чистому навколишньому середовищі</a></li>
+                                                            <li><a href="/meta/ukrainci-mense-strazdaut-vid-nakopicenna-vidhodiv">9.5. Українці менше страждають від накопичення відходів</a></li>
+                                                            <li><a href="/meta/ukrainci-bils-efektivno-ta-osadlivo-vikoristovuut-prirodni-resursi">9.6. Українці більш ефективно та ощадливо використовують природні  ресурси</a></li>
+                                                            <li><a href="/meta/ukrainci-zberigaut-prirodni-ekosistemi-dla-nasadkiv">9.7. Українці зберігають природні екосистеми для нащадків</a></li>
+                                                            <li><a href="/meta/ukrainec-usvidomlue-naslidki-globalnih-zmin-klimatu-vzivae-zahodiv-dla-ih-zapobiganna-prote-gotovij-do-nih-adaptuvatis">9.8. Українець усвідомлює наслідки глобальних змін клімату, вживає заходів для їх запобігання, проте готовий до них адаптуватись</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+    <button onclick="topFunction()" id="back-btn"><i class="fas fa-angle-up"></i></button>
+</div>
+<footer class="footer">
+    <div class="container">
+    </div>
+</footer>
+
+<script src="/assets/b0e5218f/jquery.js"></script>
+<script src="/assets/e65f7296/yii.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="/js/script.js"></script></body>
+</html>

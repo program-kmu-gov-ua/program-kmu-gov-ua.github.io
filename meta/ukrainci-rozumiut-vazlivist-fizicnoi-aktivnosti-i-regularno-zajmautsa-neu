@@ -1,0 +1,1252 @@
+<!DOCTYPE html>
+<html lang="uk-UA">
+<head>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-149413617-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-149413617-1');
+        </script>
+        <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <meta property="og:image" width="1200" height="630" content="https://program.kmu.gov.ua/image/og.jpg" />
+
+        <title>Програма діяльності Уряду | Українці розуміють важливість фізичної активності і регулярно займаються нею</title>
+    <meta property="og:title" content="Програма діяльності Уряду | Українці розуміють важливість фізичної активності і регулярно займаються нею">
+<meta property="og:type" content="website">
+<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="vsXHBVySCZFyHsU9Ew0djiE9832DdCl6Zh4-z72G7R7V8IR9N-FjyAAtoFFRbH_qWFq1HOtETyU2WnuBi7-rbw==">
+
+<link href="/assets/d6556b45/css/bootstrap.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+<link href="//use.fontawesome.com/releases/v5.7.2/css/all.css" rel="stylesheet"></head>
+<body>
+<nav class="navbar_box">
+    <div class="container">
+        <div class="row">
+            <ul class="navbar-nav nav hidden-xs">
+                <li class="">
+    <a href="/" title="Програма діяльності">Програма діяльності</a>
+</li>
+<li class="">
+    <a href="/report" title="Звіт Уряду. Топ 100 досягнень">Звіт Уряду. Топ 100 досягнень</a>
+</li>
+<li class="">
+    <a href="/report/program-execution/2019" title="Звіт виконання програми">Звіт з виконання Програми</a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="reports-menu-wrap hidden-sm hidden-md hidden-lg">
+        <a href="/" class="logo-navigation">
+            <img src="/files/logo-kmu.svg" alt="alt">
+        </a>
+        <div class="reports-menu" data-toggle="collapse" data-target=".navbar-collapse">
+            <img src="/files/ic-menu.svg" alt="alt">
+        </div>
+    </div>
+    <!-- Mobile menu -->
+    <div class="hidden-sm hidden-md hidden-lg">
+        <div class="mobile-menu collapse navbar-collapse">
+            <ul class="nav">
+                <li class="">
+    <a href="/" title="Програма діяльності">Програма діяльності</a>
+</li>
+<li class="">
+    <a href="/report" title="Звіт Уряду. Топ 100 досягнень">Звіт Уряду. Топ 100 досягнень</a>
+</li>
+<li class="">
+    <a href="/report/program-execution/2019" title="Звіт виконання програми">Звіт з виконання Програми</a>
+</li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- header -->
+<header class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <a href="/" class="logo-title hidden-xs">
+                    <img src="/files/logo-kmu.svg" alt="#">
+                </a>
+                <h1 class="section-title hidden-sm hidden-md hidden-lg">Уряд&nbsp; <span class="yellow-bg">УКРАЇНИ</span> <span class="ua-bg">ua</span></h1>
+            </div>
+            <div class="col-auto">
+                                                            <div class="link-download">
+                            <a target="_blank" href="/files/План реалізації - Ціль 4.4.(проект).docx" class="btn btn-primary"><i class="fas fa-file-download"></i> Проект концепції та плану</a>
+                        </div>
+                                                </div>
+        </div>
+    </div>
+</header>
+
+<div class="body-bg">
+    <img src="/image/bg.jpg" alt="#">
+</div>
+<section style="padding-top: 0 !important;" class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-head">
+                    <h1 class="section-title hidden-xs">Уряд&nbsp; <span class="yellow-bg">УКРАЇНИ</span> <span class="ua-bg">ua</span></h1>
+                                            <section class="program-title">
+                            <h1 class="">Програма діяльності <br> Кабінету Міністрів УкраЇни</h1>
+                        </section>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+            <section class="section">
+            <div class="container">
+                <ul class="breadcrumb"><li><a href="/">Програма діяльності Уряду</a></li>
+<li title='Міністерство культури, молоді та спорту України' > <a href="/ministry/ministerstvo-kulturi-molodi-ta-sportu-ukraini">Міністерство культури, молоді та спорту...</a></li><li class="active">4.4. Українці розуміють важливість фізичної активності...</li>
+</ul>            </div>
+        </section>
+    <div class="goal-section">
+    <div class="container">
+        <div class="row">
+    <div class="col-12 col-sm-4 order-2">
+        <div class="office-block ministry">
+    <div class="office-title">
+        Міністерство культури, молоді та спорту України    </div>
+    <div class="office-boss">
+        <div class="boss-ava">
+            <img src="/image/users/160x160/U_df1e797f-7838-4765-84d7-b114e3fc63d1-1575191134.jpg" alt="#">
+        </div>
+        <div class="boss-name-block">
+            <div class="boss-name"><b>Бородянський Володимир</b></div>
+            <div class="boss-work">Міністр</div>
+        </div>
+    </div>
+    <div class="office-btn">
+        <a href="/ministry/ministerstvo-kulturi-molodi-ta-sportu-ukraini" class="btn btn-primary"><i class="fa fa-university"></i> Сторінка
+            міністерства</a>
+    </div>
+            <div class="office-btn">
+            <a href="http://mip.gov.ua/content/kontakti.html" target="_blank" class="btn btn-primary"><i
+                        class="fa fa-envelope"></i> Зворотній зв'зок</a>
+        </div>
+    </div>
+
+    <div class="office-block responsives">
+        <div class="office-title">
+            Відповідальний        </div>
+        <div class="goals-desc">
+            <ul>
+                                    <li>Шумілін Володимир Олександрович                        <div>
+                            <i>
+                                <small>
+                                    Заступник міністра                                </small>
+                            </i>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+
+<div class="office-block responsives" id="sticky-navigation">
+    <div class="office-title">Навігація</div>
+    <div class="goals-desc">
+        <ul>
+            <li><a href="#step_1">Ціль</a></li>
+            <li><a href="#step_2">Проблема політики</a></li>
+            <li><a href="#step_3">Пропонований курс політики</a></li>
+            <li><a href="#step_4">Проект плану реалізації концепції політики</a></li>
+                        <li><a href="#step_5">Звіт з виконання цілі</a></li>
+                    </ul>
+    </div>
+</div>
+    </div>
+    <div class="col-12 col-sm-8">
+        
+<h2 class="block-title"><a name="step_1">Ціль</a></h2>
+<div class="office-block">
+    <div class="office-title">
+        <i class="fas fa-flag"></i> Ціль
+    </div>
+    <div class="goals-desc">
+        <h3 class="sub-title">4.4. Українці розуміють важливість фізичної активності і регулярно займаються нею</h3>
+                    <div class="all-text"><p>Оскільки систематична та правильна фізична активність підвищує якість життя людей та здоров&rsquo;я нації, державна політика буде більше сконцентрована саме на масовому спорті та фізичній культурі.&nbsp;</p>
+
+<p>В партнерстві з місцевими громадами ми запустимо програму з будівництва мультифункціональних спортивних комплексів, максимально розширимо доступ до існуючої спортивної інфраструктури (тренувальні бази, стадіони тощо).&nbsp;</p>
+
+<p>Державна підтримка спорту високих досягнень буде враховувати забезпечення федераціями успішної популяризації та активного функціонування масового спорту. Для цього потрібно змінити пріоритетну підтримку державою спорту вищих досягнень через обов&rsquo;язкову підтримку і залучення широких мас до занять спортом, як одного з факторів фінансування. Зменшити кількість пріоритетних видів спорту, які фінансово підтримує держава.&nbsp;</p>
+
+<p>Безумовно, існуючі ресурсні обмеження вимагають концентрації на обмеженій кількості пріоритетних видів спорту, фінансово підтримуваних державою, що призведе до значного підвищення успішності і престижу нашої держави у цих видах спорту. Створити необхідні стимули для&nbsp; інвестування в спортивну інфраструктуру.</p>
+
+<p>Це сприятиме підвищенню частки культурного, креативного продукту, спорту і туризму до 12&ndash;14% ВВП.</p>
+</div>
+            <p><a href="#" class="moretext"><span class="visible-open">Згорнути</span><span class="hidden-open">Переглянути більше</span><i
+                            class="fas fa-chevron-down"></i></a></p>
+            </div>
+</div>
+
+    <h2 class="block-title">ПРОЕКТ Концепції державної політики щодо досягнення цілі 4.4. "Українці розуміють важливість фізичної активності і регулярно займаються нею" Програми діяльності Кабінету Міністрів України</h2>
+
+    <h2 class="block-title"><a name="step_2">1. Проблема політики</a></h2>
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-exclamation-circle"></i>1.1. Якість фізичного здоров’я жителя України знижується        </div>
+        <div class="goals-desc">
+            <div class="stak-block">
+                <div class="stak-img">
+                    <i class="fas fa-users"></i>
+                </div>
+                <div class="stak-desc">
+                                            <div class="stak-name">1.2. Носій проблеми
+                            (клієнт; суспільна група, яка страждає від проблеми)
+                        </div>
+                                        <div>
+                        Близько 85% українців ведуть пасивний спосіб життя                    </div>
+                </div>
+            </div>
+
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.3. Масштаб проблеми</div>
+                    <div>
+                        <span class="badge badge-danger">Загальнонаціональна</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p><p>На 41,8 млн. населення України лише 6,3 млн. осіб охоплено оздоровчою руховою активністю</p>
+</p>
+                </div>
+            </div>
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.4. Гострота проблеми</div>
+                    <div>
+                        <span class="badge badge-danger">Гостра</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p>95 % дітей закінчують школу з хронічними захворюваннями (за даними досліджень Львівського національного медуніверситету ім. Д. Галицького, управління ЛМР та БФ &laquo;Ти не один&raquo;)</p>
+                </div>
+            </div>
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.5. Динаміка проблеми</div>
+                    <div>
+                        <span class="badge badge-success">Позитивна</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p><p>Спостерігається тенденція щодо збільшення кількості громадян, які мають достатній рівень оздоровчої рухової активності лише на 1%&nbsp; в рік, у 2017 році - 14,2 %, у 2018 році &ndash; 15,0%. За умови продовження чинної політики Україна досягне показників рекомендованих ВООЗ (85% активних людей) у 2089 році</p>
+</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-list"></i>1.6. Причини проблеми
+        </div>
+        <div class="goals-desc">
+            <div class="block-group-wrap">
+                                    <div class="block-group">
+                        <h5>Причина 1 &ndash; Недостатній рівень обізнаності жителів України щодо переваг використання фізичної активності</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 2 &ndash; Низький рівень проникнення спорту в життя української родини, громади, суспільства</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 3 &ndash; Обмежена кількість спортсменів та жителів України мають доступ до сучасної спортивної інфраструктури</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 4 &ndash; Суб'єкти спортивної галузі (клуби, федерації, ДЮСШ) недостатньо мотивовані та не мають рівних конкурентних умов для розвитку</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 5 &ndash; Держава ставиться до спорту як до соціальної функції та не розглядає спорт як частину економіки країни. Держава не стимулює розвиток спорту як бізнесу, а також інших суміжних зі спортом бізнес індустрій</h5>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+
+<div class="office-block">
+    <div class="office-title">
+                    <i class="fas fa-chart-pie"></i>1.7. Показники ефективності політики
+            </div>
+    <div class="goals-desc">
+        <ul>
+                            <li>Зростання до 40% кількості людей, що регулярно займаються спортом або фізичною активністю</li>
+                    </ul>
+    </div>
+</div>
+
+
+    <h2 class="block-title"><a name="step_3">2. Пропонований курс політики</a></h2>
+            <div class="office-block">
+            <div class="office-title">
+                <i class="fas fa-list"></i> Підцілі
+            </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        1. Кожний житель України розуміє цінність здоров’я, як власного капіталу                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>100% українців проінформовані про залежність власного здоров’я від регулярного заняття спортом, фізичною активністю та мають можливість займатися ними</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Скоригувати державну політику щодо розвитку масового спорту та фізичної активності</li>
+                                                                                            <li>Розробити механізм реалізації державної стратегії розвитку масового спорту та фізичної активності в умовах децентралізації</li>
+                                                                                            <li>Запровадити грантову систему підтримки спортивно-масових івентів і програм</li>
+                                                                                            <li>Забезпечити рівні права для бюджетного фінансування ДЮСШ та приватних клубів</li>
+                                                                                            <li>Програму інформаційної підтримки масового спорту та фізичної активності зробити на постійно діючій основі з реалізацією на державному та регіональному рівні</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        2. Кожний житель України пишається досягненнями українського спорту, а кожний український спортсмен мотивований силою національної підтримки його успіху                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Україна входить до рейтингу ТОП-20 за результатами зимових ОІ-2022 (21 місце на сьогодні) та літніх ОІ-2024 (32 місце на сьогодні), ТОП-5 зимових ДІ-2021, ПІ-2022 та літніх ДІ-2023, ПІ-2024</li>
+                                                                                            <li>50 % українців знають імена чемпіонів та призерів Олімпійських та Паралімпійських Ігор в Токіо-2020 та Парижі-2024</li>
+                                                                                            <li>Україна покращила показники в Global Sports Impact Report 2024 на 10 пунктів (82 місце из 90 учасників за результатами 2018 року)</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Створити умови для залучення та проведення в Україні міжнародних подій світового рівня</li>
+                                                                                            <li>Розробити інформаційно-комунікаційну програму щодо супроводу підготовки та виступу спортсменів, які є гордістю нації та прикладом для молодого покоління, у найпрестижніших світових змаганнях</li>
+                                                                                            <li>Організувати належну підготовку збірної команди України до участі у топових міжнародних змаганнях, Олімпійських, Паралімпійських та Дефлімпійських Іграх</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        3. Інфраструктура спорту України є складовою частиною світової інфраструктури спорту                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Українська спортивна інфраструктура є доступною для суб'єктів спорту та громадян</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Провести комплексний аналіз існуючої інфраструктури спорту та зробити моніторинг поточних програм будівництва об'єктів спорту з бюджетним фінансуванням</li>
+                                                                                            <li>Розробити національну програму будівництва та реконструкції спортивних споруд для розвитку пріоритетних видів спорту та спортивних активностей</li>
+                                                                                            <li>Розробити новий Державний стандарт у сфері фізичної культури та спорту, яким буде визначено комплекс соціальних норм і нормативів щодо надання послуг у сфері фізичної культури та спорту</li>
+                                                                                            <li>Розробити систему показників ефективної експлуатації спортивних споруд</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        4. Справедливий, відкритий і сильний спортивний сектор, вільний від корупції                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>100% державних коштів Міністерства культури, молоді та спорту України та коштів місцевих бюджетів, виділених на спорт та спортивні активності, розподіляються на основі перевірених даних, затверджених проектів та програм</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Реформувати систему організації та управління діяльності спорту України</li>
+                                                                                            <li>Розробити єдину цифрову платформу, яка дозволить усім суб’єктам екосистеми спорту взаємодіяти у відкритому конкурентному полі та отримувати реальні статистичні та аналітичні дані</li>
+                                                                                            <li>Надати доступ приватним компаніям і клубам до управління державною, комунальною та муніципальною спортивною інфраструктурою на взаємовигідних умовах</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        5. Індустрія спорту, як невід'ємна частина економіки України                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Доля індустрії спорту в ВВП щороку зростає</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Розробити програму стимулювання розвитку професійного спорту в Україні</li>
+                                                                                            <li>Врегулювати і надати можливостей для розвитку суміжним спорту галузям</li>
+                                                                                            <li>Надати рівні можливості суб’єктам спорту (клуби, ДЮСШ, федерації та ін.) розвивати спорт та фізичну активність через державно-приватне партнерство</li>
+                                                                                            <li>Розробити програму стимулювання виробництва спортивного інвентарю, одягу, ІТ розробок, розвитку спортивної науки, медицини та технологій</li>
+                                                                                            <li>Створити умови для розвитку меценатства та спонсорства</li>
+                                                                                            <li>Стимулювати запуск освітніх програм для спеціалістів галузі</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                    </div>
+    
+    
+    <h2 class="block-title"><a name="step_4">Проект плану реалізації концепції політики</a></h2>
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-list"></i> Заходи
+        </div>
+        <div class="goals-desc">
+            <div class="" style="width: 100%; overflow-x: auto">
+                <table class="table">
+                                            <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Скоригувати державну політику щодо розвитку масового спорту та фізичної активності                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка та прийняття Стратегії розвитку спорту до 2032 року</td>
+                                    <td>31.12.2019</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка бренд-буку U-sport</td>
+                                    <td>01.03.2020</td>
+                                    <td>30.09.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Політику інклюзивності в розвитку масового спорту та фізичної активності реалізовувати на постійній основі</td>
+                                    <td>01.03.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка та затвердження плану дій з реалізації Стратегії</td>
+                                    <td>01.03.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробити систему контролю та моніторингу державної політики масового спорту та фізичної активності</td>
+                                    <td>01.03.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розробити механізм реалізації державної стратегії розвитку масового спорту та фізичної активності в умовах децентралізації                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Підготувати проект змін до Закону України "Про фізичну культуру та спорт"</td>
+                                    <td>01.12.2019</td>
+                                    <td>31.05.2020</td>
+                                    <td>МКМС; МОН; МОЗ; Мінрегіон; Мін'юст</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Підготувати проект змін до Закону України "Про громадські об'єднання"</td>
+                                    <td>01.12.2019</td>
+                                    <td>30.06.2020</td>
+                                    <td>МКМС; МОН; МОЗ; Мінрегіон; Мін'юст</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Підготувати проект змін до Бюджетного кодексу в частині фіксованого відсотка фінансування програми масового спорту в бюджетах усіх рівнів</td>
+                                    <td>01.02.2020</td>
+                                    <td>30.07.2020</td>
+                                    <td>МКМС; МОН; МОЗ; Мінрегіон; Мін'юст</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Стимулювати спортивні федерації розвивати систему масових змагань та фізичної активності в кожному регіоні України</td>
+                                    <td>01.03.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС; МОН; МОЗ; Мінрегіон; Мін'юст</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Створити умови для запровадження механізму “гроші ходять за спортивною послугою” на рівні органів місцевого самоврядування та об'єднаних територіальних громад</td>
+                                    <td>01.09.2020</td>
+                                    <td>31.05.2021</td>
+                                    <td>МКМС; МОН; МОЗ; Мінрегіон; Мін'юст</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробити методичні рекомендації з фізичної активності та зробити їх доступними для всіх верств населення України</td>
+                                    <td>01.11.2020</td>
+                                    <td>30.06.2021</td>
+                                    <td>МКМС; МОН; МОЗ; Мінрегіон; Мін'юст</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробити та впровадити інформаційно-комунікаційну підтримку щодо реформування та запропонованих змін</td>
+                                    <td>01.06.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МКМС; МОН; МОЗ; Мінрегіон; Мін'юст</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Запровадити грантову систему підтримки спортивно-масових івентів і програм                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Створити "Фонд розвитку спорту" та діджитал-платформу</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МКМС; Мінфін</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Забезпечити рівні права для бюджетного фінансування ДЮСШ та приватних клубів                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Підготувати проект змін до Закону України "Про фізичну культуру та спорт"</td>
+                                    <td>01.03.2020</td>
+                                    <td>30.09.2020</td>
+                                    <td>МКМС; Мін'юст</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Підготувати проект змін до Закону України "Про громадські об'єднання"</td>
+                                    <td>01.03.2020</td>
+                                    <td>30.09.2020</td>
+                                    <td>МКМС; Мін'юст</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Програму інформаційної підтримки масового спорту та фізичної активності зробити на постійно діючій основі з реалізацією на державному та регіональному рівні                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Поширення соціальної реклами стосовно переваг оздоровчої рухової активності</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2024</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Залучення до пропаганди здорового способу життя громадських об’єднань, державних та громадських діячів, відомих спортсменів та митців</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2024</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Популяризація організованої рухової активності та підтримка успішних низових ініціатив</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2024</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Створити умови для залучення та проведення в Україні міжнародних подій світового рівня                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Стимулювати спортивних федерацій з видів спорту щодо проведення рейтингових змагань в Україні</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; громадські організації (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечити співпрацю з органами виконавчої влади та місцевого самоврядування з метою якісного проведення міжнародних спортивних заходів</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МКМС; громадські організації (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Стандартизувати майбутні та існуючі об'єкти спортивної інфраструктури до вимог міжнародних спортивних федерацій</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; громадські організації (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розробити інформаційно-комунікаційну програму щодо супроводу підготовки та виступу спортсменів, які є гордістю нації та прикладом для молодого покоління, у найпрестижніших світових змаганнях                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Широке висвітлення спортивних подій та популяризація спортсменів і тренерів у засобах масової інформації та мережі Інтернет, зокрема соціальних мережах</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2024</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>В контрактах членів олімпійської збірної команди України ввести пункт про обов’язкову участь у проектах підтримки програм масового спорту та фізичної активності на регулярній основі</td>
+                                    <td>01.01.2021</td>
+                                    <td>31.12.2021</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Стимулювати розвиток фан-напрямку в підтримку спортивних клубів</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2024</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Організувати належну підготовку збірної команди України до участі у топових міжнародних змаганнях, Олімпійських, Паралімпійських та Дефлімпійських Іграх                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Створити Організаційний комітет з підготовки та участі спортсменів України в Іграх ХХХІІ Олімпіади та ХVI Паралімпійських Іграх-2020 року в Токіо (Японія)</td>
+                                    <td>01.12.2019</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; МВС; СБУ; ЗСУ; МОЗ; Мінфін; Мін'юст; Мінекономіки; МЗС; НОК</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечити виконання Планів підготовки до ОІ-2020 та ПІ-2020, ОІ-2022 та ПІ-2022, ОІ-2024 та ПІ-2024</td>
+                                    <td>01.12.2019</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; МВС; СБУ; ЗСУ; МОЗ; Мінфін; Мін'юст; Мінекономіки; МЗС; НОК</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Внесення змін до Постанови Кабінету Міністрів України №689 від 18.09.2013 р. "Про затвердження норм витрат на проведення спортивних заходів державного та міжнародного рівня"</td>
+                                    <td>01.12.2019</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС; МВС; СБУ; ЗСУ; МОЗ; Мінфін; Мін'юст; Мінекономіки; МЗС; НОК</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Внесення змін до статті 3 Закону України "Про публічні закупівлі" та деяких законодавчих актів України щодо вдосконалення публічних закупівель (щодо сфери застосування цього закону)</td>
+                                    <td>01.09.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МКМС; МВС; СБУ; ЗСУ; МОЗ; Мінфін; Мін'юст; Мінекономіки; МЗС; НОК</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Внести зміни до Постанови Кабінету Міністрів України №378 від 31.05.1995р. "Про затвердження Порядку та умов обов'язкового державного страхування спортсменів вищої категорії"</td>
+                                    <td>01.12.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МКМС; МВС; СБУ; ЗСУ; МОЗ; Мінфін; Мін'юст; Мінекономіки; МЗС; НОК</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Створити програму адресної цільової підготовки "ТОП-100" елітної групи спортсменів для участі в рейтингових змаганнях</td>
+                                    <td>01.09.2021</td>
+                                    <td>31.10.2022</td>
+                                    <td>МКМС; МВС; СБУ; ЗСУ; МОЗ; Мінфін; Мін'юст; Мінекономіки; МЗС; НОК</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Реалізувати програму надання автономії діяльності спортивних федерацій з передачею відповідальності за розвиток виду спорту в країні</td>
+                                    <td>01.12.2021</td>
+                                    <td>31.12.2022</td>
+                                    <td>МКМС; МВС; СБУ; ЗСУ; МОЗ; Мінфін; Мін'юст; Мінекономіки; МЗС; НОК</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечити належну антидопінгову профілактику та медичне забезпечення спортсменів</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; МВС; СБУ; ЗСУ; МОЗ; Мінфін; Мін'юст; Мінекономіки; МЗС; НОК</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечити у повному обсязі процес підготовки та участі національних збірних команд України у Паралімпійських і Дефлімпійських іграх</td>
+                                    <td>01.12.2019</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; МВС; СБУ; ЗСУ; МОЗ; Мінфін; Мін'юст; Мінекономіки; МЗС; НОК</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Провести комплексний аналіз існуючої інфраструктури спорту та зробити моніторинг поточних програм будівництва об'єктів спорту з бюджетним фінансуванням                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Збір інформації щодо наявної спортивної інфраструктури</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.07.2021</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Перегляд державних будівельних норм України (будинки і споруди, спортивні та фізкультурно-оздоровчі споруди ДБН В.2.2-13-2003) з урахуванням вимог національних та міжнародних спортивних федерацій, ДБН В.2.2-40:2018 "Інклюзивність будівель і споруд з урахуванням дотримання державних будівельних норм для осіб з інвалідністю"</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.11.2020</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка Плану дій щодо забезпечення всіх груп та категорій населення спортивними спорудами</td>
+                                    <td>01.01.2020</td>
+                                    <td>01.01.2021</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Визначити кількість першочергових об'єктів для проведення в Україні міжнародних змагань та тренувань національних збірних команд</td>
+                                    <td>01.06.2020</td>
+                                    <td>31.05.2021</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Проведення оцифрування та інвентаризація об’єктів всієї спортивної інфраструктури сфери фізичної культури та спорту України, в т.ч. шляхом створення Єдиного електронного всеукраїнського реєстру спортивних споруд</td>
+                                    <td>01.10.2020</td>
+                                    <td>31.07.2021</td>
+                                    <td>МКМС; Мінцифри; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розробити національну програму будівництва та реконструкції спортивних споруд для розвитку пріоритетних видів спорту та спортивних активностей                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка та впровадження механізму інтеграції національних спортивних федерацій в процес проектування і будівництва об'єктів спорту</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробити стратегію розвитку спортивної інфраструктури України та методичні рекомендації з її реалізації</td>
+                                    <td>01.09.2020</td>
+                                    <td>31.05.2021</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Реалізація проектів "БАЗОВОЇ ІНФРАСТРУКТУРИ СПОРТУ України" в 24 регіонах:
+- 24 мультиспортивні центри;
+- 24 мультиспортивні парки;
+- 100 стадіонів;
+- 1 місто спорту;
+- 1 міжнародний олімпійський центр;</td>
+                                    <td>01.01.2021</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Сприяти розробці та реалізації проектів будівництва інфраструктури спорту для проведення рейтингових міжнародних змагань в Україні, а також тренувань для національних збірних команд за пріоритетними видами спорту</td>
+                                    <td>01.01.2021</td>
+                                    <td>31.12.2022</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробити на законодавчому рівні механізми впровадження фіскальних стимулів для інвестицій, які стосуються будівництва спортивних споруд</td>
+                                    <td>01.01.2022</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розробити новий Державний стандарт у сфері фізичної культури та спорту, яким буде визначено комплекс соціальних норм і нормативів щодо надання послуг у сфері фізичної культури та спорту                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Внесення змін до Законів України "Про фізичну культуру і спорт", "Про державні соціальні стандарти та державні соціальні гарантії"</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.03.2021</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Затвердити та впровадити Державний стандарт у сфері фізичної культури та спорту на державному та регіональному рівнях</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розробити систему показників ефективної експлуатації спортивних споруд                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Внести зміни до порядку етапів планування, проектування та будівництва спортивних споруд із обов'язковою фіксацією показника відповідності об’єкта вимогам міжнародних асоціацій з видів спорту</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.03.2021</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка та впровадження системи показників ефективної експлуатації спортивних споруд</td>
+                                    <td>01.09.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Впровадження програми підвищення кваліфікації кадрів управління спортивними об’єктами</td>
+                                    <td>01.01.2021</td>
+                                    <td>31.12.2022</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Започаткування плану стандартизації та сертифікації спортивних споруд відповідно до вимог міжнародних спортивних федерацій</td>
+                                    <td>01.01.2022</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Реформувати систему організації та управління діяльності спорту України                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробити нову структуру взаємовідносин та відповідальності суб'єктів спорту</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МКМС; МОН; МОЗ; Мінрегіон; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Внести зміни до Законів України "Про фізичну культуру і спорт", "Про місцеві самоврядування в Україні", "Про фонд державного майна"</td>
+                                    <td>01.01.2021</td>
+                                    <td>31.12.2022</td>
+                                    <td>МКМС; МОН; МОЗ; Мінрегіон; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробити програму поетапного впровадження та переходу на роботу за новими правилами</td>
+                                    <td>01.01.2022</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; МОН; МОЗ; Мінрегіон; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розробити єдину цифрову платформу, яка дозволить усім суб’єктам екосистеми спорту взаємодіяти у відкритому конкурентному полі та отримувати реальні статистичні та аналітичні дані                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Підготовка технічного завдання до діджитал платформи з урахуванням всіх необхідних функцій</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.04.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка програмного забезпечення</td>
+                                    <td>01.05.2020</td>
+                                    <td>30.09.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Запуск та тестування платформи</td>
+                                    <td>01.10.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Надати доступ приватним компаніям і клубам до управління державною, комунальною та муніципальною спортивною інфраструктурою на взаємовигідних умовах                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Реалізація вимог Закону України "Про Концесію"</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; Мінцифри; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Реалізація вимог Закону України "Про державно-приватне партнерство"</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; Мінцифри; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Внесення змін до Закону України "Про фонд державного майна України"</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Впровадження системи фіскальних стимулів для інвестування у фізичну культуру та спорт</td>
+                                    <td>01.01.2021</td>
+                                    <td>31.12.2022</td>
+                                    <td>МКМС; Мінцифри; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Затвердження та впровадження системи контролю за виконанням стандартів на інституційних засадах саморегулювання</td>
+                                    <td>01.01.2021</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; Мінцифри; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розробити програму стимулювання розвитку професійного спорту в Україні                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Внести зміни в Закону України "Про фізичну культуру і спорт"</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Створити умови для залучення інвестицій у сферу фізичної культури і спорту</td>
+                                    <td>01.01.2021</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Врегулювати і надати можливостей для розвитку суміжним спорту галузям                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробити та затвердити зміни до пакету законів щодо фіскального стимулювання економіки</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>Мінекономіки; МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Змінити принцип фінансування державних та муніципальних суб'єктів спорту з переходом від прямого дотування до фінансування через надання спортивних послуг населенню</td>
+                                    <td>01.01.2021</td>
+                                    <td>31.12.2021</td>
+                                    <td>Мінекономіки; МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Надати рівні можливості суб’єктам спорту (клуби, ДЮСШ, федерації та ін.) розвивати спорт та фізичну активність через державно-приватне партнерство                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Впровадження системи фіскальних стимулів для інвестування у фізичну культуру та спорт (зниження орендних ставок)</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечити виконання Закону України "Про державно-приватне партнерство"</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2022</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Затвердження та впровадження системи контролю за виконанням стандартів на інституційних засадах саморегулювання</td>
+                                    <td>01.01.2021</td>
+                                    <td>31.12.2022</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розробити програму стимулювання виробництва спортивного інвентарю, одягу, ІТ розробок, розвитку спортивної науки, медицини та технологій                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Опрацювання питання щодо створення сприятливих економічних умов для підтримки українського виробника</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС; Мінцифри; органи місцевого самоврядування (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Створити умови для розвитку меценатства та спонсорства                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Прийняття проектів Законів України: "Про меценатство у фізичній культурі і спорті"; "Про внесення змін до Податкового кодексу України щодо меценатства у фізичній культурі і спорті"; Про внесення змін до статті 287 Митного кодексу України щодо меценатства у фізичній культурі і спорті</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС; МВС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Дотримання виконання умов Закону України "Про концесію"</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС; МВС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Стимулювати запуск освітніх програм для спеціалістів галузі                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробити та запровадити проект з навчання спеціалістів галузі за міжнародними грантовими програмами</td>
+                                    <td>01.12.2019</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; МОН</td>
+                                </tr>
+                                                                                        </table>
+            </div>
+        </div>
+    </div>
+
+    <h2 class="block-title"><a name="step_5">Звіт з виконання цілі</a></h2>
+<div class="office-block">
+    <div class="office-title">
+        <i class="fas fa-list"></i> Звіт 2019
+    </div>
+    <div class="goals-desc">
+        <div class="text text-report-content">
+            <p class="MsoNormal"><span lang="UK">Утворено Державне агентство спорту – центральний орган виконавчої
+влади, основним завданням якого є реалізація державної політики у сфері
+фізичної культури і спорту </span><span lang="UK">(постанова Кабінету Міністрів України від 4 грудня 2019 р. №&nbsp;
+995), та затверджено Положення про нього (постанова Кабінету Міністрів України
+від 24&nbsp; грудня 2019 р. № 1160).<o:p></o:p></span></p><p class="MsoNormal"><a name="_heading=h.fhagksayshwv"></a><span lang="UK">Розроблено Концепцію
+розвитку масового спорту та спортивних активностей, однією з головних складових
+якої є Програма “Гроші ходять за спортивною послугою” (пілотний проект
+реалізується у м. Маріуполь), реалізація якої дозволить українським родинам
+отримувати адресне фінансування на дитину і самостійно обирати для неї види
+спорту чи активності. Це створить конкурентне середовище щодо надання
+спортивних послуг в Україні та сприятиме підвищенню якості наданих таких
+послуг.<o:p></o:p></span></p><p class="MsoNormal"><a name="_heading=h.y9oij6dbprvp"></a><span lang="UK">Розроблено та винесено на публічне
+обговорення з громадськістю проект Стратегії розвитку спорту і фізичної
+активності України до 2032 року “U-Sport”, спрямованої на популяризацію і
+закріплення навичок здорового способу життя, заняття масовими видами спорту та
+підвищення спортивного іміджу України в світі.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">У рамках підготовки до Олімпійських Ігор Токіо-2020: <o:p></o:p></span></p><p class="MsoNormal"><!--[if !supportLists]--><span lang="UK">&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;</span><span lang="UK">створено
+Оргкомітет з підготовки до Олімпійських Ігор та Паралімпійських Ігор
+Токіо-2020; </span><span lang="UK"><o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;</span>підготовлено
+національний медійний проект “Разом до Токіо” для українців в Україні та за її
+межами, метою якого є максимальне розширення аудиторії перегляду Олімпійських
+ігор та підтримки спортсменів, підвищення їх впізнаваності для широкої
+аудиторії, залучення українців до занять масовим спортом, створення позитивного
+сприйняття ролі держави у підготовчому процесі олімпійців; </span><span lang="UK"><o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;</span>створено
+медіа-центр “U-Sport” МКМС з новинами зі спортивних майданчиків світу та
+прямими репортажами від наших спортсменів та тренерів, які представляють понад
+160 національних федерацій з видів спорту про результати виступів на змаганнях
+національного та міжнародного рівнів, а також інформацію про спортивні події в
+Україні та світі. Медіа-центр стане першоджерелом спортивних новин для ЗМІ.</span><span lang="UK"><o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Для проведення міжнародних спортивних змагань розроблено
+концепції:<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;</span>реорганізації ДП
+ОНСЦ “Конча-Заспа” в міжнародний тренувальний центр;</span><span lang="UK"><o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;</span>реорганізації ДП
+НСК “Олімпійський”, СК “Атлет”, “Палац спорту” в мультиспортивний кластер “Місто
+спорту”;</span><span lang="UK"><o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;</span>створення
+Національного центру з художньої гімнастики.</span><span lang="UK"><o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Це стимулюватиме розвиток спорту високих досягнень через
+підвищення спроможності країни з реалізації міжнародних спортивних змагань та
+забезпечення тренувань спортсменів світового рівня інших країн в Україні.<o:p></o:p></span></p><p><strong><i>Подальші
+заплановані дії</i></strong></p><ul><li><span lang="UK">Забезпечення початку переходу
+України на сучасну модель управління спортом, спрямовану на підвищення
+самоорганізації населення у сфері спорту через інституціоналізацію спортивних
+клубів як обов’язкового елементу функціонування федерацій, залучення на
+регулярній основі 40&nbsp;% громадян до занять масовим спортом, збільшення
+кількості спортивних змагань, підвищення кількості робочих місць та
+конкурентної оплати праці в сфері спорту, покращення результатів виступів
+національних збірних команд на рейтингових міжнародних змаганнях шляхом: <o:p></o:p></span></li></ul><p class="MsoNormal"><!--[if !supportLists]--><span lang="UK">-&nbsp; &nbsp;&nbsp;</span><span lang="UK">затвердження
+Стратегії розви</span><span lang="UK">тку
+спорту і фізичної активності України до 2032&nbsp;року “U-Sport” та плану
+заходів з її реалізації через запуск нової моделі фінансування спорту,
+затвердження програми управління та будівництва спортивної інфраструктури
+(концесії, державно-приватне партнерство, багаторівневе бюджетне фінансування),
+старт реалізації пілотних проектів, спрямованих на популяризацію і закріплення
+навичок здорового способу життя, заняття масовими видами спорту та підвищення
+спортивного іміджу України в світі; <o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>-&nbsp; &nbsp;&nbsp;</span>розроблення та подання до
+Верховної Ради України законопроектів щодо внесення
+змін до Законів України “Про фізичну культуру і спорт” стосовно приведення основ управління спортом в Україні до визнаних
+міжнародних стандартів, “Про громадські об’єднання” в частині саморегулюючих
+громадських організацій спортивного спрямування, “Про спортивні організації”
+стосовно визначення критеріїв спортивних організацій та механізмів фінансування
+з державного та місцевих бюджетів, залучення інвестицій і приватних коштів, “Про
+Фонд державного майна України” в частині зниження орендних ставок на об’єкти
+спортивної інфраструктури державної та комунальної форм власності; <o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>-&nbsp; &nbsp;&nbsp;</span>створення Фонду
+розвитку спорту (аналогічний до Українського культурного фонду), що дозволить
+запровадити пряме грантове фінансування успішних спортивних ініціатив та підвищити
+довіру з боку громадянського суспільства до рішень Уряду в сфері підтримки
+спорту; </span><span lang="UK"><o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>-&nbsp; &nbsp;&nbsp;</span>перехід
+спортивних федерацій до автономії в управлінні різними видами спорту;</span><span lang="UK"><o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">-&nbsp; &nbsp;&nbsp;старт реалізації
+проектів з будівництва: 100 стадіонів нової формації, “Міста спорту”, Міжнародного
+тренувального центру “Конча-Заспа”, а також продовження реалізації проектів з
+будівництва плавальних басейнів, палаців спорту, біатлонних комплексів за рахунок
+коштів субвенції, завершення будівництва муніципального комплексу міжнародного
+класу в м. Полтава та плавального басейну в м. Мелітополь.</span><span lang="UK"><o:p></o:p></span></p><ul><li><span lang="UK">Якісне
+забезпечення та масштабне публічне висвітлення участі українських спортсменів в
+XXXІ Олімпійс</span><span lang="UK">ьких
+Іграх, XVI Паралімпійських іграх 2020 року в
+м.&nbsp; Токіо, що дасть змогу всій країні пишатись нашими спортсменами.<o:p></o:p></span></li><li><span lang="UK">Створення
+національної інфраструктури даних у сфері спорту на основі Цифрової платформи,
+яка міститиме персоналізовані дані та реєстри спортивних споруд, спортсменів,
+тренерів, клубів, федерацій, змагань, що дозволить спростити обмін інформацією
+та розширити доступ населення до системи занять масовим спортом.</span><span lang="UK"><o:p></o:p></span></li></ul><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><ul><li><span lang="UK">Вихід України з
+групи країн із найбільшою кількістю позитивних проб на допінг шляхом підвищення
+персональної відповідальності, проведення масової кампанії з підвищення
+обізнаності щодо шкоди допінгу для здоров’я і репутації спортсменів.</span><span lang="UK"><o:p></o:p></span></li></ul>        </div>
+        <div class="office-btn">
+            <a href="/report/program-execution/2019#ukrainci-rozumiut-vazlivist-fizicnoi-aktivnosti-i-regularno-zajmautsa-neu" class="btn btn-primary">Переглянути повний звіт</a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+    </div>
+    <button onclick="topFunction()" id="back-btn"><i class="fas fa-angle-up"></i></button>
+</div>
+<footer class="footer">
+    <div class="container">
+    </div>
+</footer>
+
+<script src="/assets/b0e5218f/jquery.js"></script>
+<script src="/assets/e65f7296/yii.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="/js/script.js"></script></body>
+</html>

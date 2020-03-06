@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="uk-UA">
+<head>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-149413617-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-149413617-1');
+        </script>
+        <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <meta property="og:image" width="1200" height="630" content="https://program.kmu.gov.ua/image/og.jpg" />
+
+        <title>Програма діяльності Уряду | Українець, який хоче мати цифрові навички, може їх вільно набути</title>
+    <meta property="og:title" content="Програма діяльності Уряду | Українець, який хоче мати цифрові навички, може їх вільно набути">
+<meta property="og:type" content="website">
+<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="0gSAjqmUyMGdEUo8kT_jBrsncWpbRnPpQusE2d0l-3a5McP2wueimO8iL1DTXoFiwkA3CzN2FbYSr0GX6xy9Bw==">
+
+<link href="/assets/d6556b45/css/bootstrap.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+<link href="//use.fontawesome.com/releases/v5.7.2/css/all.css" rel="stylesheet"></head>
+<body>
+<nav class="navbar_box">
+    <div class="container">
+        <div class="row">
+            <ul class="navbar-nav nav hidden-xs">
+                <li class="">
+    <a href="/" title="Програма діяльності">Програма діяльності</a>
+</li>
+<li class="">
+    <a href="/report" title="Звіт Уряду. Топ 100 досягнень">Звіт Уряду. Топ 100 досягнень</a>
+</li>
+<li class="">
+    <a href="/report/program-execution/2019" title="Звіт виконання програми">Звіт з виконання Програми</a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="reports-menu-wrap hidden-sm hidden-md hidden-lg">
+        <a href="/" class="logo-navigation">
+            <img src="/files/logo-kmu.svg" alt="alt">
+        </a>
+        <div class="reports-menu" data-toggle="collapse" data-target=".navbar-collapse">
+            <img src="/files/ic-menu.svg" alt="alt">
+        </div>
+    </div>
+    <!-- Mobile menu -->
+    <div class="hidden-sm hidden-md hidden-lg">
+        <div class="mobile-menu collapse navbar-collapse">
+            <ul class="nav">
+                <li class="">
+    <a href="/" title="Програма діяльності">Програма діяльності</a>
+</li>
+<li class="">
+    <a href="/report" title="Звіт Уряду. Топ 100 досягнень">Звіт Уряду. Топ 100 досягнень</a>
+</li>
+<li class="">
+    <a href="/report/program-execution/2019" title="Звіт виконання програми">Звіт з виконання Програми</a>
+</li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- header -->
+<header class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <a href="/" class="logo-title hidden-xs">
+                    <img src="/files/logo-kmu.svg" alt="#">
+                </a>
+                <h1 class="section-title hidden-sm hidden-md hidden-lg">Уряд&nbsp; <span class="yellow-bg">УКРАЇНИ</span> <span class="ua-bg">ua</span></h1>
+            </div>
+            <div class="col-auto">
+                                                            <div class="link-download">
+                            <a target="_blank" href="/files/Концепція політики Ціль 14.3.(проект).docx" class="btn btn-primary"><i class="fas fa-file-download"></i> Проект концепції</a>
+                        </div>
+                                                </div>
+        </div>
+    </div>
+</header>
+
+<div class="body-bg">
+    <img src="/image/bg.jpg" alt="#">
+</div>
+<section style="padding-top: 0 !important;" class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-head">
+                    <h1 class="section-title hidden-xs">Уряд&nbsp; <span class="yellow-bg">УКРАЇНИ</span> <span class="ua-bg">ua</span></h1>
+                                            <section class="program-title">
+                            <h1 class="">Програма діяльності <br> Кабінету Міністрів УкраЇни</h1>
+                        </section>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+            <section class="section">
+            <div class="container">
+                <ul class="breadcrumb"><li><a href="/">Програма діяльності Уряду</a></li>
+<li title='Міністерство цифрової трансформації України' > <a href="/ministry/ministerstvo-cifrovoi-transformacii-ukraini">Міністерство цифрової трансформації України</a></li><li class="active">14.3. Українець, який хоче мати цифрові...</li>
+</ul>            </div>
+        </section>
+    <div class="goal-section">
+    <div class="container">
+        <div class="row">
+    <div class="col-12 col-sm-4 order-2">
+        <div class="office-block ministry">
+    <div class="office-title">
+        Міністерство цифрової трансформації України    </div>
+    <div class="office-boss">
+        <div class="boss-ava">
+            <img src="/image/users/160x160/U_5776ab35-8af7-4ab3-91b7-a5c95791574e-1575191191.jpg" alt="#">
+        </div>
+        <div class="boss-name-block">
+            <div class="boss-name"><b>Федоров Михайло</b></div>
+            <div class="boss-work">Міністр</div>
+        </div>
+    </div>
+    <div class="office-btn">
+        <a href="/ministry/ministerstvo-cifrovoi-transformacii-ukraini" class="btn btn-primary"><i class="fa fa-university"></i> Сторінка
+            міністерства</a>
+    </div>
+            <div class="office-btn">
+            <a href="https://www.e.gov.ua/ua" target="_blank" class="btn btn-primary"><i
+                        class="fa fa-envelope"></i> Зворотній зв'зок</a>
+        </div>
+    </div>
+
+    <div class="office-block responsives">
+        <div class="office-title">
+            Відповідальний        </div>
+        <div class="goals-desc">
+            <ul>
+                                    <li>Іонан Валерія Едуардівна                        <div>
+                            <i>
+                                <small>
+                                    Заступник міністра                                </small>
+                            </i>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+
+<div class="office-block responsives" id="sticky-navigation">
+    <div class="office-title">Навігація</div>
+    <div class="goals-desc">
+        <ul>
+            <li><a href="#step_1">Ціль</a></li>
+            <li><a href="#step_2">Проблема політики</a></li>
+            <li><a href="#step_3">Пропонований курс політики</a></li>
+            <li><a href="#step_4">Проект плану реалізації концепції політики</a></li>
+                        <li><a href="#step_5">Звіт з виконання цілі</a></li>
+                    </ul>
+    </div>
+</div>
+    </div>
+    <div class="col-12 col-sm-8">
+        
+<h2 class="block-title"><a name="step_1">Ціль</a></h2>
+<div class="office-block">
+    <div class="office-title">
+        <i class="fas fa-flag"></i> Ціль
+    </div>
+    <div class="goals-desc">
+        <h3 class="sub-title">14.3. Українець, який хоче мати цифрові навички, може їх вільно набути</h3>
+                    <div class="all-text"><p>Інвестиції в розвиток цифрових навичок населення є одним з пріоритетів нашого Уряду. З економічної точки зору такі інвестиції, якщо вони робляться раціонально, мають суттєвий вплив на зростання ВВП у середньостроковій перспективі.</p>
+
+<p>Тому ми плануємо створити інфраструктуру, яка дозволить українцям масово підвищувати рівень своїх цифрових навичок. Для цього ми плануємо створити онлайн-платформу дистанційного навчання цифровим навичкам та відкрити доступні офлайн-хаби по всій країні.&nbsp; Кожний крок нашої діяльності супроводжуватиме ефективна інформаційна кампанія з популяризації платформи для населення.&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+            <p><a href="#" class="moretext"><span class="visible-open">Згорнути</span><span class="hidden-open">Переглянути більше</span><i
+                            class="fas fa-chevron-down"></i></a></p>
+            </div>
+</div>
+
+    <h2 class="block-title">ПРОЕКТ Концепції державної політики щодо досягнення цілі “Українець, який хоче мати цифрові навички, може їх вільно набути”  Програми діяльності Кабінету Міністрів України</h2>
+
+    <h2 class="block-title"><a name="step_2">1. Проблема політики</a></h2>
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-exclamation-circle"></i>1.1. Українці недостатньо володіють цифровими навичками        </div>
+        <div class="goals-desc">
+            <div class="stak-block">
+                <div class="stak-img">
+                    <i class="fas fa-users"></i>
+                </div>
+                <div class="stak-desc">
+                                            <div class="stak-name">1.2. Носій проблеми
+                            (клієнт; суспільна група, яка страждає від проблеми)
+                        </div>
+                                        <div>
+                        Українець, що не користується онлайн-послугами чи сервісами або не повністю може скористатись ними через брак цифрових навиків                    </div>
+                </div>
+            </div>
+
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.3. Масштаб проблеми</div>
+                    <div>
+                        <span class="badge badge-danger">Загальнонаціональна</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p><p>53% населення у віці від 18 до 70 років України знаходяться нижче позначки &laquo;базовий&nbsp;рівень&raquo;</p>
+</p>
+                </div>
+            </div>
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.4. Гострота проблеми</div>
+                    <div>
+                        <span class="badge badge-danger">Гостра</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p>Цифрові навики є новою категорією обов&rsquo;язкової грамотності для всіх, незважаючи на вік та зайнятість</p>
+                </div>
+            </div>
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.5. Динаміка проблеми</div>
+                    <div>
+                        <span class="badge badge-warning">Нейтральна</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p><p>Регулярне збільшення українських користувачів інтернету, що не мають базових цифрових навиків. Інші дані є другорядними.</p>
+</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-list"></i>1.6. Причини проблеми
+        </div>
+        <div class="goals-desc">
+            <div class="block-group-wrap">
+                                    <div class="block-group">
+                        <h5>Причина 1 &ndash; Неможливість скористатись публічно доступними цифровими гаджетами (інтернет кафе, бібліотеки тощо)</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 2 &ndash; Відсутність кваліфікованого персоналу, який може навчати різні верстви населення в офлайні та онлайні</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 3 &ndash; Неадаптована освітня політика під стратегію діджиталізації</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 4 &ndash; Відсутність системного навчального контенту з цифрової грамотності українською мовою</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 5 &ndash; Недостатній рівень вмотивованості в здобутті цифрових навичок</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 6 &ndash; Розпорошеність ресурсів та зусиль приватного сектору та волонтерів щодо пріоритизації тем навчання цифровій грамотності</h5>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+
+<div class="office-block">
+    <div class="office-title">
+                    <i class="fas fa-chart-pie"></i>1.7. Показники ефективності політики
+            </div>
+    <div class="goals-desc">
+        <ul>
+                            <li>Понад 6 млн. українців охоплені програмою розвитку цифрових навичок</li>
+                            <li>70% громадян, які пройшли програму, володіють навичками на базовому рівні</li>
+                    </ul>
+    </div>
+</div>
+
+
+    <h2 class="block-title"><a name="step_3">2. Пропонований курс політики</a></h2>
+            <div class="office-block">
+            <div class="office-title">
+                <i class="fas fa-list"></i> Підцілі
+            </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        1. Створення власної та партнерської мережі з можливістю доступу до цифрових гаджетів та інтернету                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>1000 партнерських локацій на постійній основі</li>
+                                                                                            <li>1000 гнучких партнерських локацій</li>
+                                                                                            <li>500 власних відкритих хабів</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Визначення цільових партнерів для програми</li>
+                                                                                            <li>Створення графіку відкриття хабів</li>
+                                                                                            <li>Створення системи навчання партнерів та моніторингу ефективності</li>
+                                                                                            <li>Пошук донорської допомоги, створення формату, вибір локації, відкриття та робота хабів</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        2. Проведення навчання кваліфікованого персоналу в усіх регіонах, щоб навчати цифровій грамотності різні верстви населення в офлайні та онлайні                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>5000 навчених тренерів</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Створення навчальної програми “Тренери для тренерів” у відповідності до категорій студентів та включно з різними рівнями програм</li>
+                                                                                            <li>Створення системи моніторингу тренерів</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        3. Адаптувати освітню політику під стратегію діджиталізації держави                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Впроваджені та доступні навчальні програми з цифрової грамотності у школах</li>
+                                                                                            <li>Впроваджені та доступні навчальні програми з цифрової грамотності в університетах</li>
+                                                                                            <li>Впроваджені та доступні навчальні програми з цифрової грамотності для громадян України з питань користування державними сервісами та порталами</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Створення навчальних програм з цифрової грамотності у школах та університетах</li>
+                                                                                            <li>Впровадження системи створення навчального контенту щодо державних сервісів та порталів</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        4. Створення системного навчального контенту з цифрової грамотності українською мовою                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Створення національної освітньої онлайн-платформи з цифрової грамотності</li>
+                                                                                            <li>Від 30 до 50 навчальних програм з цифрової грамотності створені та розміщені на платформі</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Створення національної освітньої онлайн-платформи з цифрової грамотності</li>
+                                                                                            <li>Створення та коригування продуктової лінійки навчальних курсів</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        5. Проведення регулярних національних кампаній заради актуалізації та вмотивованості українців різного віку в здобутті цифрових навичок                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>20 мільйонів українців охоплені інформаційними кампаніями з питань цифрової грамотності</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Забезпечити ротацію базового навчального курсу на телебаченні (національному та регіональному)</li>
+                                                                                            <li>Створення плану інформаційних кампаній та забезпечення його впровадження</li>
+                                                                                            <li>Створення регулярного щорічного національного форуму з питань цифрової грамотності</li>
+                                                                                            <li>Створення та проведення регулярних освітніх подій з питань цифрової грамотності в різних регіонах України</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        6. Координація ресурсів та зусиль приватного сектору та волонтерів щодо пріоритизації тем навчання цифровій грамотності                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>500 компаній. Створена партнерська мережа приватного бізнесу, що допомагає інформувати чи навчати українців цифровій грамотності</li>
+                                                                                            <li>2000 волонтерів. Створена мережа волонтерів цифрової грамотності</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Створити вимоги до партнерства з компаніями з приватного сектору</li>
+                                                                                            <li>Створити маппінг компаній-партнерів</li>
+                                                                                            <li>Створити стратегію розвитку та план впровадження волонтерського руху в Україні</li>
+                                                                                            <li>Створити мережу з 2000 волонтерів для навчання та просування теми цифрової грамотності</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                    </div>
+    
+
+    <h2 class="block-title"><a name="step_5">Звіт з виконання цілі</a></h2>
+<div class="office-block">
+    <div class="office-title">
+        <i class="fas fa-list"></i> Звіт 2019
+    </div>
+    <div class="goals-desc">
+        <div class="text text-report-content">
+            <p class="MsoNormal">Проведено перше в Україні дослідження з цифрової грамотності українців. </p><p class="MsoNormal">Загальнонаціональне опитування з цифрової грамотності населення передбачало реалізацію 5 основних компонентів: фокусована групова дискусія, опитування населення України, опитування населення з вадами слуху, опитування молоді, опитування населення окупованих територій Донецької та Луганської областей. За основу визначення рівня володіння цифровими навичками було взято методологію, що використовується Європейською комісією для обрахунку Індексу цифрової економіки та суспільства. Перші результати:</p><p class="MsoNormal">&nbsp;&nbsp;&nbsp; –&nbsp;&nbsp;&nbsp;&nbsp;37,9&nbsp;% українців у віці 18–70 років мають цифрові навички на рівні нижче базового, ще 15,1&nbsp;% взагалі не володіють ними. Таким чином, 53&nbsp;% населення України за методологією оцінки цифрових навичок, яка застосовується Європейською комісією, знаходяться нижче позначки “базовий рівень”;</p><p class="MsoNormal">&nbsp;&nbsp;&nbsp; –&nbsp; &nbsp;&nbsp;українці зацікавлені в навчанні цифровим навичкам: 47&nbsp;% українців у віці 18–70 років говорять про актуальність для них навчання цифровим навичкам: 61,4&nbsp;% &nbsp;– молоді у віці 18–29 років, 67,5&nbsp;% – дітей середнього та старшого шкільного віку (10–17 років), 65&nbsp;% – осіб з вадами слуху.</p><p class="MsoNormal">Результати дослідження включають також інформацію щодо: карти цифрових навичок України, проведеного часу українцями в Інтернеті, кількості українців, які стали жертвами шахрайських дій в Інтернеті і яких саме дій, актуальності навчання цифровим навичкам в двох портретах – сільської та міської місцевості, чотирьох портретах українців (відсутні навички, навички нижче базового, базовий та вище базового) у розрізі місцевості, статусу зайнятості, регіону, рівня освіти. Також дослідження включає портрети та дані щодо конкретних навичок, контактування з державними органами через Інтернет, інформацію щодо доступу в Інтернет та кількість техніки. </p><p class="MsoNormal">Повні результати дослідження можна переглянути на сайті <a href="http://osvita.diia.gov.ua/" target="_blank">osvita.diia.gov.ua</a>.</p><p class="MsoNormal">Також проведені перші в Україні хакатони з питань зручного формату навчання цифровій грамотності для людей старшого віку та хакатони з питань цифрової грамотності батьків очима дітей за допомогою ПРООН в Україні.</p><p class="MsoNormal">Створено первинну концепцію та план запуску проекту цифрової освіти населення, що має дві складові: онлайн – запущена освітня платформа osvita.diia.gov.ua та оффлайн.</p><p class="MsoNormal">Створена програма та записані наступні курси у формі освітніх серіалів:</p><p class="MsoNormal">-&nbsp; &nbsp;&nbsp;базовий курс з цифрової грамотності, мета якого навчитися впевнено користуватися смартфоном, комп’ютером і планшетом: вміти знайти відповідь на будь-яке запитання, швидко та безкоштовно надіслати листа чи обмінятися фото з близькими, не стати жертвою інтернет-шахрайства, ділитися своїми новинами онлайн і читати новини друзів;</p><p class="MsoNormal">-&nbsp; курс з цифрової грамотності для вчителів, мета якого ефективніше організовувати заходи, зберігати та створювати файли, автоматично оцінювати завдання учнів, результативно організовувати роботи в групах, навчитися застосовувати онлайн-інструменти, щоб навчальний процес став більш захопливим і ефективним;</p><p class="MsoNormal">-&nbsp; &nbsp;&nbsp;курс з онлайн-безпеки для батьків, мета якого дізнатися, як уберегти дітей онлайн від шкідливих матеріалів, кібербулінгу, суїцидальних Інтернет-спілок, сексуального насильства. </p><p class="MsoNormal">Доступ до освітніх серіалів є абсолютно безкоштовним для всіх громадян.</p><p class="MsoNormal">Кожен, хто успішно здасть фінальне тестування, отримає електронний сертифікат, яким можна поділитися у соціальних мережах в якості свого досягнення або використати під час працевлаштування.</p><p class="MsoNormal">При цьому були залучені експерти, селебріті та міжнародні компанії, що надавали контент (Google, CFC Consulting, Microsoft, Академія ДТЕК, CISCO та ін.).</p><p class="MsoNormal">Підписано меморандум з Українською бібліотечною асоціацією щодо співпраці з 6000 комп’ютеризованих бібліотек.</p><p class="MsoNormal">Створена первинна партнерська база для розміщення перших хабів, що включає в себе бібліотеки, ЦНАПи, школи та університети.</p><p class="MsoNormal">Запланований старт промо-кампанії з метою збільшення вмотивованості населення до навчання цифровій грамотності.</p><p class="MsoNormal"><strong><i><strong>Подальші заплановані дії</strong></i></strong></p><ul><li>Вирівнювання диспропорції між міською та сільською місцевістю у доступі до телекомунікаційних послуг.</li><li>Запровадження стандартів якості для надання телекомунікаційних послуг.</li><li>Створення умов для доступу до цифрових гаджетів.</li><li>Здійснення підготовки персоналу, який працюватиме з населенням в офлайні та надаватиме онлайн-підтримку.</li><li>Адаптація освітньої політики під стратегію діджиталізації.</li><li>Створення повної екосистеми з реалізації політики цифрової освіти - онлайн-платформа з доступними курсами цифрової грамотності в 5 різних категоріях, що завжди будуть доступними (безкоштовними) для українців.</li><li>Погодження продуктової лінійки освітніх програм 2020, розроблення та впровадження плану щодо створення та зйомки освітніх серіалів (мінімум 12&nbsp; освітніх серіалів щорічно).</li><li>Створення великої власної, партнерської та волонтерської мережі:</li></ul><p class="MsoNormal">-&nbsp;&nbsp;&nbsp; відкриття перших власних та партнерських хабів (загальна кількість за рік – 1000);</p><p class="MsoNormal">-&nbsp; &nbsp;&nbsp;організація офлайн-навчання за допомогою мережі партнерів та волонтерів, створення осередків.</p><ul><li>Забезпечення інформаційної підтримки політики з формування цифрових навичок населення.</li><li>Проведення першої масштабної інформаційної кампанії із залученням національного та регіонального телебачення.</li><li>Проведення тижня цифрової грамотності.</li><li>Проведення регіональних форумів з цифрової грамотності.</li></ul>        </div>
+        <div class="office-btn">
+            <a href="/report/program-execution/2019#ukrainec-akij-hoce-mati-cifrovi-navicki-moze-ih-vilno-nabuti" class="btn btn-primary">Переглянути повний звіт</a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+    </div>
+    <button onclick="topFunction()" id="back-btn"><i class="fas fa-angle-up"></i></button>
+</div>
+<footer class="footer">
+    <div class="container">
+    </div>
+</footer>
+
+<script src="/assets/b0e5218f/jquery.js"></script>
+<script src="/assets/e65f7296/yii.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="/js/script.js"></script></body>
+</html>

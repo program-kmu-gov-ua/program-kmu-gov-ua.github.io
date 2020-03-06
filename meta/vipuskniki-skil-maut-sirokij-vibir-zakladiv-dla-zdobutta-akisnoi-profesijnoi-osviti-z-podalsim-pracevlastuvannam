@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="uk-UA">
+<head>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-149413617-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-149413617-1');
+        </script>
+        <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <meta property="og:image" width="1200" height="630" content="https://program.kmu.gov.ua/image/og.jpg" />
+
+        <title>Програма діяльності Уряду | Випускники шкіл мають широкий вибір закладів для здобуття якісної професійної освіти з подальшим працевлаштуванням</title>
+    <meta property="og:title" content="Програма діяльності Уряду | Випускники шкіл мають широкий вибір закладів для здобуття якісної професійної освіти з подальшим працевлаштуванням">
+<meta property="og:type" content="website">
+<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="2Z4gOl7aLBFrsM8_lvmIwuhRxvfCShcgjJR_0q9yd4Syq2NCNalGSBmDqlPUmOqmkTaAlqp6cX_c0DqcmUsx9Q==">
+
+<link href="/assets/d6556b45/css/bootstrap.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+<link href="//use.fontawesome.com/releases/v5.7.2/css/all.css" rel="stylesheet"></head>
+<body>
+<nav class="navbar_box">
+    <div class="container">
+        <div class="row">
+            <ul class="navbar-nav nav hidden-xs">
+                <li class="">
+    <a href="/" title="Програма діяльності">Програма діяльності</a>
+</li>
+<li class="">
+    <a href="/report" title="Звіт Уряду. Топ 100 досягнень">Звіт Уряду. Топ 100 досягнень</a>
+</li>
+<li class="">
+    <a href="/report/program-execution/2019" title="Звіт виконання програми">Звіт з виконання Програми</a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="reports-menu-wrap hidden-sm hidden-md hidden-lg">
+        <a href="/" class="logo-navigation">
+            <img src="/files/logo-kmu.svg" alt="alt">
+        </a>
+        <div class="reports-menu" data-toggle="collapse" data-target=".navbar-collapse">
+            <img src="/files/ic-menu.svg" alt="alt">
+        </div>
+    </div>
+    <!-- Mobile menu -->
+    <div class="hidden-sm hidden-md hidden-lg">
+        <div class="mobile-menu collapse navbar-collapse">
+            <ul class="nav">
+                <li class="">
+    <a href="/" title="Програма діяльності">Програма діяльності</a>
+</li>
+<li class="">
+    <a href="/report" title="Звіт Уряду. Топ 100 досягнень">Звіт Уряду. Топ 100 досягнень</a>
+</li>
+<li class="">
+    <a href="/report/program-execution/2019" title="Звіт виконання програми">Звіт з виконання Програми</a>
+</li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- header -->
+<header class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <a href="/" class="logo-title hidden-xs">
+                    <img src="/files/logo-kmu.svg" alt="#">
+                </a>
+                <h1 class="section-title hidden-sm hidden-md hidden-lg">Уряд&nbsp; <span class="yellow-bg">УКРАЇНИ</span> <span class="ua-bg">ua</span></h1>
+            </div>
+            <div class="col-auto">
+                                                            <div class="link-download">
+                            <a target="_blank" href="/files/План реалізації - Ціль 1.3.(проект).docx" class="btn btn-primary"><i class="fas fa-file-download"></i> Проект концепції та плану</a>
+                        </div>
+                                                </div>
+        </div>
+    </div>
+</header>
+
+<div class="body-bg">
+    <img src="/image/bg.jpg" alt="#">
+</div>
+<section style="padding-top: 0 !important;" class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-head">
+                    <h1 class="section-title hidden-xs">Уряд&nbsp; <span class="yellow-bg">УКРАЇНИ</span> <span class="ua-bg">ua</span></h1>
+                                            <section class="program-title">
+                            <h1 class="">Програма діяльності <br> Кабінету Міністрів УкраЇни</h1>
+                        </section>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+            <section class="section">
+            <div class="container">
+                <ul class="breadcrumb"><li><a href="/">Програма діяльності Уряду</a></li>
+<li title='Міністерство освіти і науки України' > <a href="/ministry/ministerstvo-osviti-i-nauki-ukraini">Міністерство освіти і науки України</a></li><li class="active">1.3. Випускники шкіл мають широкий вибір...</li>
+</ul>            </div>
+        </section>
+    <div class="goal-section">
+    <div class="container">
+        <div class="row">
+    <div class="col-12 col-sm-4 order-2">
+        <div class="office-block ministry">
+    <div class="office-title">
+        Міністерство освіти і науки України    </div>
+    <div class="office-boss">
+        <div class="boss-ava">
+            <img src="/image/users/160x160/U_68f45fee-7b24-4a45-90ed-0b554c11acba-1575191248.jpg" alt="#">
+        </div>
+        <div class="boss-name-block">
+            <div class="boss-name"><b>Новосад Ганна</b></div>
+            <div class="boss-work">Міністр</div>
+        </div>
+    </div>
+    <div class="office-btn">
+        <a href="/ministry/ministerstvo-osviti-i-nauki-ukraini" class="btn btn-primary"><i class="fa fa-university"></i> Сторінка
+            міністерства</a>
+    </div>
+            <div class="office-btn">
+            <a href="https://mon.gov.ua/ua/ministerstvo/pro-ministerstvo/kontaktna-informaciya" target="_blank" class="btn btn-primary"><i
+                        class="fa fa-envelope"></i> Зворотній зв'зок</a>
+        </div>
+    </div>
+
+    <div class="office-block responsives">
+        <div class="office-title">
+            Відповідальний        </div>
+        <div class="goals-desc">
+            <ul>
+                                    <li>Коржевський Петро Миколайович                        <div>
+                            <i>
+                                <small>
+                                    Заступник міністра                                </small>
+                            </i>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+
+<div class="office-block responsives" id="sticky-navigation">
+    <div class="office-title">Навігація</div>
+    <div class="goals-desc">
+        <ul>
+            <li><a href="#step_1">Ціль</a></li>
+            <li><a href="#step_2">Проблема політики</a></li>
+            <li><a href="#step_3">Пропонований курс політики</a></li>
+            <li><a href="#step_4">Проект плану реалізації концепції політики</a></li>
+                        <li><a href="#step_5">Звіт з виконання цілі</a></li>
+                    </ul>
+    </div>
+</div>
+    </div>
+    <div class="col-12 col-sm-8">
+        
+<h2 class="block-title"><a name="step_1">Ціль</a></h2>
+<div class="office-block">
+    <div class="office-title">
+        <i class="fas fa-flag"></i> Ціль
+    </div>
+    <div class="goals-desc">
+        <h3 class="sub-title">1.3. Випускники шкіл мають широкий вибір закладів для здобуття якісної професійної освіти з подальшим працевлаштуванням</h3>
+                    <div class="all-text"><p>Існує хибний стереотип, що у професійну освіту йдуть лише ті, хто не здатний потрапити до вищої освіти, хто має гірші знання чи здібності. Випускники шкіл, часто під впливом цього стереотипу, не розглядають професійну освіту як набагато перспективніший для себе освітній та подальший професійний шлях, незважаючи на те, що заробітна плата працівників робітничих професій є подекуди значно вищою, ніж середня на ринку праці. Професійна освіта часто не є привабливою також внаслідок застарілості та тривалості програм підготовки, зношеності матеріально-технічної бази закладів, низької кваліфікації викладацького складу, слабкого зв&rsquo;язку між закладом освіти та роботодавцем. Тому ми працюватимемо над відновленням позитивного іміджу професійної освіти.</p>
+
+<p>Для цього ми створимо умови для розвитку ефективної мережі закладів професійної (професійно-технічної та фахової передвищої) освіти, підтримуючи об&rsquo;єктивно найкращі з них. Також ми створимо не менше 250 навчально-практичних центрів у закладах професійно-технічної освіти та сформуємо мережу центрів професійного вдосконалення. Завершимо передачу закладів професійної (професійно-технічної та фахової передвищої) освіти, їх управління і фінансування на регіональний рівень.</p>
+
+<p>Забезпечимо відповідність змісту і тривалості програм професійної (професійно-технічної та фахової передвищої) освіти потребам ринку праці.&nbsp;</p>
+
+<p>Упорядкуємо систему здобуття професійних кваліфікацій з урахуванням потреб регіональних ринків праці та створимо умови для максимального залучення бізнесу до процесу підготовки фахівців у закладах професійної освіти та її популяризації.</p>
+
+<p>У результаті учні витрачатимуть свій час на навчання, що дасть їм можливість швидко працевлаштуватися за професією та позитивно вплине на продуктивність праці.</p>
+</div>
+            <p><a href="#" class="moretext"><span class="visible-open">Згорнути</span><span class="hidden-open">Переглянути більше</span><i
+                            class="fas fa-chevron-down"></i></a></p>
+            </div>
+</div>
+
+    <h2 class="block-title">ПРОЕКТ Концепції державної політики щодо досягнення цілі 1.3. «Випускники шкіл мають широкий вибір закладів для здобуття якісної професійної освіти з подальшим працевлаштуванням» Програми діяльності Кабінету Міністрів України</h2>
+
+    <h2 class="block-title"><a name="step_2">1. Проблема політики</a></h2>
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-exclamation-circle"></i>1.1. Випускники шкіл орієнтуються виключно на здобуття вищої освіти, що призводить до нераціонального витрачання їх часу і фінансових ресурсів у процесі професійної реалізації        </div>
+        <div class="goals-desc">
+            <div class="stak-block">
+                <div class="stak-img">
+                    <i class="fas fa-users"></i>
+                </div>
+                <div class="stak-desc">
+                                            <div class="stak-name">1.2. Носій проблеми
+                            (клієнт; суспільна група, яка страждає від проблеми)
+                        </div>
+                                        <div>
+                        Випускники шкіл                    </div>
+                </div>
+            </div>
+
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.3. Масштаб проблеми</div>
+                    <div>
+                        <span class="badge badge-danger">Загальнонаціональна</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p><p><strong>Переважна більшість випускників школи (майже ⅔) віддають перевагу вищій освіті. Щороку це майже 400 тис.&nbsp;учнів (базову загальну середню освіту у 2020 році здобудуть&nbsp; 381,9 тис.&nbsp;осіб; у 2021 році - 399,9 тис.&nbsp;осіб; у 2022 році - 398,7 тис. осіб; у 2023 році - 430,8 тис.&nbsp;осіб; у 2024 році - 441,1 тис. осіб). Понад третина з тих, хто має статус безробітного - молодь до 35 років. Кількість випускників закладів освіти, що отримували послуги державної служби зайнятості протягом січня-жовтня 2019 року, становила 11,4 тис. осіб (у т.&nbsp;ч. 8,8 тис. випускників закладів вищої освіти та&nbsp; 2,6 тис. випускників закладів професійно-технічної освіти)</strong><a href="#_ftn1" name="_ftnref1">[1]</a><strong>. При цьому широкомасштабне опитування, проведене восени 2018 року серед здобувачів професійно-технічної освіти (було опитано понад 16,5 тис осіб з усіх регіонів України) показало, що 90% опитаних повністю (55%) або частково (35%) впевнені у їх затребуваності як майбутнього фахівця на ринку праці</strong></p>
+
+<p>&nbsp;</p>
+
+<p><a href="#_ftnref1" name="_ftn1">[1]</a> Надання послуг особам з числа молоді // Державна служби зайнятості. - Режим доступу: <a href="https://www.dcz.gov.ua/analitics/68">https</a><a href="https://www.dcz.gov.ua/analitics/68">://</a><a href="https://www.dcz.gov.ua/analitics/68">www</a><a href="https://www.dcz.gov.ua/analitics/68">.</a><a href="https://www.dcz.gov.ua/analitics/68">dcz</a><a href="https://www.dcz.gov.ua/analitics/68">.</a><a href="https://www.dcz.gov.ua/analitics/68">gov</a><a href="https://www.dcz.gov.ua/analitics/68">.</a><a href="https://www.dcz.gov.ua/analitics/68">ua</a><a href="https://www.dcz.gov.ua/analitics/68">/</a><a href="https://www.dcz.gov.ua/analitics/68">analitics</a><a href="https://www.dcz.gov.ua/analitics/68">/68</a></p>
+</p>
+                </div>
+            </div>
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.4. Гострота проблеми</div>
+                    <div>
+                        <span class="badge badge-danger">Гостра</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p><strong>Питання вибору майбутньої професії та освітньої траєкторії безпосередньо визначає те, скільки часу та коштів особа витратить на здобуття професії і пошук роботи, а також розмір майбутньої заробітної плати. Віддаючи перевагу здобуттю вищої освіти, випускники шкіл втрачають час (термін виходу на ринок праці &ndash; мінімум 4 роки порівняно із 1 роком у професійно-технічній освіті) та гроші (середній показник вартості підготовки студентів за кошти фізичних/юридичних осіб в закладах вищої освіти у 2018 році складав 28 тис. грн, натомість навчання в закладах професійно-технічної освіти є безкоштовним для всіх). При цьому середня заробітна плата для вакансій, які вимагають вищої освіти, становить 6 846 грн., професійно-технічної освіти &ndash; 7 286 грн.</strong><a href="#_ftn1" name="_ftnref1">[1]</a></p>
+
+<p>&nbsp;</p>
+
+<p><a href="#_ftnref1" name="_ftn1">[1]</a>&nbsp; Розмір заробітної&nbsp; плати у вакансіях станом на 1 листопада 2019 року // Державна служби зайнятості. &ndash; Режим доступу:<a href="https://www.dcz.gov.ua/analitics/69"> </a><a href="https://www.dcz.gov.ua/analitics/69">https</a><a href="https://www.dcz.gov.ua/analitics/69">://</a><a href="https://www.dcz.gov.ua/analitics/69">www</a><a href="https://www.dcz.gov.ua/analitics/69">.</a><a href="https://www.dcz.gov.ua/analitics/69">dcz</a><a href="https://www.dcz.gov.ua/analitics/69">.</a><a href="https://www.dcz.gov.ua/analitics/69">gov</a><a href="https://www.dcz.gov.ua/analitics/69">.</a><a href="https://www.dcz.gov.ua/analitics/69">ua</a><a href="https://www.dcz.gov.ua/analitics/69">/</a><a href="https://www.dcz.gov.ua/analitics/69">analitics</a><a href="https://www.dcz.gov.ua/analitics/69">/69</a></p>
+                </div>
+            </div>
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.5. Динаміка проблеми</div>
+                    <div>
+                        <span class="badge badge-warning">Нейтральна</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p><p><strong>Загалом, кількість зареєстрованих безробітних з числа молоді, яка закінчила або припинила навчання у закладах освіти, поступово зменшується (3 998 осіб у січні-вересні 2019 року проти 4 767 за аналогічний період 2018 року). Однак це не дає можливості зробити висновок про позитивну динаміку, оскільки не всі випускники, які не знайшли роботу в Україні, звертаються до служби зайнятості. Багато з них виїжджає за кордон чи працює не за набутою спеціальністю/професією. Частка випускників шкіл, що обирають професійну освіту, щороку зменшується на 1% у кожній категорії (9, 11 клас, професійно-технічна, фахова передвища)</strong></p>
+</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-list"></i>1.6. Причини проблеми
+        </div>
+        <div class="goals-desc">
+            <div class="block-group-wrap">
+                                    <div class="block-group">
+                        <h5>Причина 1 &ndash; Мережа закладів професійної освіти, яка містить близько 50% малокомплектних закладів із застарілим обладнанням, не відповідає потребам регіональних ринків праці</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 2 &ndash; Невідповідність змісту та якості професійної освіти потребам роботодавців</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 3 &ndash; Суспільний стереотип другорядності, непрестижності професійної освіти</h5>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+
+<div class="office-block">
+    <div class="office-title">
+                    <i class="fas fa-chart-pie"></i>1.7. Показники ефективності політики
+            </div>
+    <div class="goals-desc">
+        <ul>
+                            <li>Зростання відсотку випускників шкіл, що обирають професійну (професійно-технічну та фахову передвищу) освіту після школи, щонайменше до 45%</li>
+                            <li>Зростання відсотку випускників закладів професійної (професійно-технічної та фахової передвищої) освіти, працевлаштованих в Україні через 6 місяців та 1 рік після закінчення навчання, у тому числі за професією (спеціальністю)</li>
+                    </ul>
+    </div>
+</div>
+
+
+    <h2 class="block-title"><a name="step_3">2. Пропонований курс політики</a></h2>
+            <div class="office-block">
+            <div class="office-title">
+                <i class="fas fa-list"></i> Підцілі
+            </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        1. Єдина система професійної освіти, яка поєднує професійно-технічну та фахову передвищу освіту, є ефективною та відповідає потребам ринку праці                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Кількість регіонів, у яких завершено формування єдиної мережі закладів професійної освіти</li>
+                                                                                            <li>Кількість створених у закладах професійної освіти навчально-практичних центрів і навчально-виробничих лабораторій</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Оптимізація мережі закладів професійної освіти відповідно до потреб регіональних ринків праці</li>
+                                                                                            <li>Реалізація у системі професійної освіти нової децентралізованої моделі управління та фінансування, орієнтованої на результати</li>
+                                                                                            <li>Створення сучасної навчально-виробничої інфраструктури для здобувачів професійної освіти</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        2. Зміст та якість професійної освіти відповідає потребам регіонального ринку праці                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Зростання відсотка виконання закладами професійної освіти державного та регіонального замовлення</li>
+                                                                                            <li>Зростання кількості розроблених/оновлених стандартів професійної освіти на компетентнісній основі</li>
+                                                                                            <li>Кількість педагогічних працівників, які пройшли навчання за оновленими програмами підвищення кваліфікації</li>
+                                                                                            <li>Зростання кількості закладів, що реалізують програми здобуття професійної освіти за дуальною формою</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Розроблення дієвих внутрішньої та зовнішньої систем забезпечення якості професійної освіти</li>
+                                                                                            <li>Створення умов для надання педагогічним персоналом  якісних освітніх послуг</li>
+                                                                                            <li>Максимальне залучення бізнесу до процесу підготовки фахівців у закладах професійної освіти</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        3. Професійна освіта сприймається як достойна освітня траєкторія для випускників шкіл                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Зростання частки опитаних батьків, які розглядають професійну освіту як опцію №1 для здобуття освіти їхніми дітьми (у відсотках)</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Залучення бізнесу до популяризації професійної освіти та робітничих професій</li>
+                                                                                            <li>Проведення комунікаційної кампанії з популяризації професійної освіти</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                    </div>
+    
+    
+    <h2 class="block-title"><a name="step_4">Проект плану реалізації концепції політики</a></h2>
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-list"></i> Заходи
+        </div>
+        <div class="goals-desc">
+            <div class="" style="width: 100%; overflow-x: auto">
+                <table class="table">
+                                            <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Оптимізація мережі закладів професійної освіти відповідно до потреб регіональних ринків праці                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Законодавче врегулювання створення єдиної системи професійної освіти</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.04.2020</td>
+                                    <td>МОН</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Формування єдиної мережі закладів професійної освіти на основі закладів ПТО та ФПО (у відповідності із регіональними стратегіями розвитку професійної освіти)</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.11.2024</td>
+                                    <td>МОН; обласні державні адміністрації </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Проведення комунікаційної  кампанії створення єдиної системи професійної освіти</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2024</td>
+                                    <td>МОН; МКМС; обласні державні адміністрації </td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Реалізація у системі професійної освіти нової децентралізованої моделі управління та фінансування, орієнтованої на результати                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Забезпечення фінансування закладів, що знаходяться у містах-обласних центрах, з обласного бюджету </td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2022</td>
+                                    <td>МОН; Мінфін; обласні державні адміністрації </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечення передачі закладів професійної освіти з державної у комунальну власність</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.11.2024</td>
+                                    <td>МОН; Мінекономіки; обласні ради </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Створення наглядових рад у державних та комунальних закладах професійної освіти </td>
+                                    <td>01.11.2020</td>
+                                    <td>30.04.2022</td>
+                                    <td>МОН; обласні державні адміністрації </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечення автономії закладів професійної освіти (дерегуляція)</td>
+                                    <td>01.04.2020</td>
+                                    <td>30.11.2021</td>
+                                    <td>МОН; Мінекономіки; обласні державні адміністрації </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечення підготовки та підвищення кваліфікації керівників закладів професійної освіти</td>
+                                    <td>01.10.2020</td>
+                                    <td>30.11.2024</td>
+                                    <td>МОН; обласні державні адміністрації </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Створення EMIS (інформаційної системи управління освітою)</td>
+                                    <td>01.02.2020</td>
+                                    <td>31.08.2022</td>
+                                    <td>МОН; обласні державні адміністрації </td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Створення сучасної навчально-виробничої інфраструктури для здобувачів професійної освіти                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Створення навчально-практичних центрів (лабораторій) у закладах професійної освіти за кошти державного бюджету на конкурсній основі</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2024</td>
+                                    <td>МОН; обласні державні адміністраці </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Оновлення матеріально-технічної бази закладів професійної (професійно-технічної) освіти за кошти Компоненту 3 проекту EU4Skills</td>
+                                    <td>01.01.2021</td>
+                                    <td>31.12.2024</td>
+                                    <td>МОН; обласні державні адміністрації </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Унормування питання набуття статусу центру професійної досконалості закладами професійної освіти</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.09.2020</td>
+                                    <td>МОН; КМУ</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Здійснення модернізації матеріально-технічної бази та освітнього процесу у пілотних закладах професійної освіти з метою набуття статусу центру професійної досконалості</td>
+                                    <td>01.07.2021</td>
+                                    <td>31.12.2024</td>
+                                    <td>МОН; обласні державні адміністрації </td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розроблення дієвих внутрішньої та зовнішньої систем забезпечення якості професійної освіти                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розроблення стандартів професійної освіти, стандартів оцінювання та освітніх програм на компетентнісній основі</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2024</td>
+                                    <td>МОН; Мінекономіки; Національне агентство кваліфікацій; Спільний представницький орган роботодавців на національному рівні</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Запровадження незалежного оцінювання результатів навчання, присвоєння та/або підтвердження професійних кваліфікацій</td>
+                                    <td>01.10.2021</td>
+                                    <td>30.11.2024</td>
+                                    <td>МОН; Національне агентство кваліфікацій</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Запровадження інституційного аудиту закладів професійної освіти</td>
+                                    <td>01.04.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МОН; ДСЯО</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Запровадження моніторингових досліджень  якості професійної освіти та працевлаштування випускників</td>
+                                    <td>01.10.2023</td>
+                                    <td>31.07.2024</td>
+                                    <td>МОН; ДСЯО</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Створення умов для надання педагогічним персоналом  якісних освітніх послуг                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Створення умов для професійного розвитку педагогічних працівників закладів професійної освіти</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.11.2024</td>
+                                    <td>МОН; обласні державні адміністрації</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечення конкурентних умов оплати праці педагогічних працівників закладів професійної освіти</td>
+                                    <td>01.01.2021</td>
+                                    <td>31.12.2024</td>
+                                    <td>МОН; Мінфін</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Максимальне залучення бізнесу до процесу підготовки фахівців у закладах професійної освіти                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Спрощення механізму залучення підприємств до освітнього процесу в закладах професійної освіти</td>
+                                    <td>01.09.2020</td>
+                                    <td>30.11.2024</td>
+                                    <td>МОН; Мінекономіки</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Удосконалення механізму здобуття професійної освіти за дуальною формою</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.06.2022</td>
+                                    <td>МОН; Спільний представницький орган роботодавців на національному рівні</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Залучення бізнесу до популяризації професійної освіти та робітничих професій                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розроблення та реалізація заходів із підвищення іміджу робітничих професій із залученням бізнесу</td>
+                                    <td>01.11.2020</td>
+                                    <td>30.11.2024</td>
+                                    <td>МОН; МКМС; Спільний представницький орган роботодавців на національному рівні</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Проведення регіональних та всеукраїнських конкурсів фахової майстерності, у тому числі WorldSkills</td>
+                                    <td>01.02.2020</td>
+                                    <td>30.11.2024</td>
+                                    <td>МОН; Спільний представницький орган роботодавців на національному рівні обласні державні адміністрації </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Осучаснення / оновлення назв професій у Державному класифікаторі професій</td>
+                                    <td>01.09.2020</td>
+                                    <td>31.12.2021</td>
+                                    <td>МОН; Мінекономіки; Спільний представницький орган роботодавців на національному рівні </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Запровадження системи консультування з питань розвитку кар'єри у закладах професійної освіти</td>
+                                    <td>01.02.2020</td>
+                                    <td>30.11.2024</td>
+                                    <td>МОН; Державна служба зайнятості; Спільний представницький орган роботодавців на національному рівні </td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Проведення комунікаційної кампанії з популяризації професійної освіти                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розроблення стратегії  популяризації професійної освіти</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.06.2020</td>
+                                    <td>МОН; МКМС; обласні державні адміністрації </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Передбачення у державному бюджеті фінансування комунікаційної кампанії з популяризації професійної освіти</td>
+                                    <td>01.07.2020</td>
+                                    <td>30.09.2020</td>
+                                    <td>МОН; МКМС </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розроблення та реалізація заходів із просування кращих практик у системі професійної освіти</td>
+                                    <td>01.04.2020</td>
+                                    <td>31.12.2023</td>
+                                    <td>МОН; МКМС; обласні державні адміністрації </td>
+                                </tr>
+                                                                                        </table>
+            </div>
+        </div>
+    </div>
+
+    <h2 class="block-title"><a name="step_5">Звіт з виконання цілі</a></h2>
+<div class="office-block">
+    <div class="office-title">
+        <i class="fas fa-list"></i> Звіт 2019
+    </div>
+    <div class="goals-desc">
+        <div class="text text-report-content">
+            <p class="MsoNormal"><span lang="UK">Розширено
+мережу навчально-практичних центрів галузевого спрямування: за рахунок коштів
+державного бюджету на базі діючих закладів професійної (професійно-технічної)
+освіти у 2019 році створено 45 навчально-практичних центрів. Всього впродовж
+2016–2019 років утворено 145 центрів. У державному бюджеті 2020 року на
+створення таких центрів закладено у 5 разів більше коштів – 259 млн. гривень.
+Ці кошти вперше планується розподіляти за новим Порядком, який передбачає
+підготовку конкретних проектних заявок та обов’язкове співфінансування від
+регіонів. <o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><i>Довідково: навчально-практичні
+центри забезпечують модернізацію навчально-виробничої інфраструктури закладів
+освіти; впровадження в освітній процес новітніх виробничих технологій із
+застосуванням сучасного обладнання, інструментів і матеріалів; високу якість
+підготовки учнів та дорослого населення; підвищення кваліфікації педагогічних
+працівників; тісний зв’язок із ринком праці, що сприяє швидкому
+працевлаштуванню після закінчення навчання; проведення профорієнтаційної
+роботи; підвищення престижності професійної освіти. <o:p></o:p></i></span></p><p class="MsoNormal"><i><span lang="UK">Зокрема, 10 грудня 2019
+р. на базі Львівського вищого професійного політехнічного училища відкрили
+навчально-практичний центр “Слюсарна справа”. Навчально-практичний центр
+створений для спеціальностей: слюсар-ремонтник, слюсар механоскладальних робіт,
+слюсар-інструментальник, слюсар з ремонту колісних транспортних засобів. Для
+відкриття центру було виділено понад 800 тис. грн. з державного та місцевого
+бюджетів, коштів спеціального фонду закладу та приватних партнерів.</span><span lang="UK"> <o:p></o:p></span></i></p><p class="MsoNormal"><span lang="UK"><i>19 грудня 2019 р. на
+базі Чернівецького вищого професійного училища радіоелектроніки відкрито навчально-практичний
+центр електротехнічного напряму та </i></span><span lang="UK"><i>23
+грудня 2019 р. проведено майстер-клас для педагогічних працівників “Схема
+підключення вуличного освітлення на сонячній панелі”.</i><o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">За кошти приватних партнерів у 2019 році створено сім
+навчально-практичних центрів (ТОВ “Сініат” – 2, ТОВ “Снєжка-Україна” – 2, ТМ&nbsp;“Будмайстер”&nbsp;
+– 1, Фонд ім. Ебергарда Шьока – 2) та шість територій професійних
+компетентностей, створених за підтримки ТОВ “Фамальгаут-Полімін”.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Здобувачі освіти навчаються за сучасними стандартами професійної
+(професійно-технічної) освіти – оновлено підходи до змісту професійної освіти.
+У 2019 році </span><span lang="UK">затверджено
+69 стандартів професійної (професійно-технічної) освіти, розроблених на основі
+компетентнісного підходу. Всього таких стандартів затверджено 179. <o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Видано
+6 найменувань підручників та посібників для здобувачів професійної
+(професійно-технічної) освіти загальним накладом 96&nbsp;275&nbsp;примірників.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Затверджено
+Типове положення про регіональну раду професійної (професійно-технічної) освіти
+(постанова Кабінету Міністрів України від 4 грудня 2019 р. №&nbsp;1002), у
+якому закріплено статус, процедуру формування, основні завдання, що
+покладаються на регіональні ради професійної (професійно-технічної) освіти, а
+також їх права щодо формування та реалізації регіональної політики у сфері
+професійної (професійно-технічної) освіти.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">З 1 вересня
+2019 р. елементи дуальної форми здобуття освіти у закладах професійної
+(професійно-технічної) освіти впроваджують 262&nbsp;заклади,
+1000&nbsp;роботодавців, здійснюється підготовка зі 190&nbsp;робітничих
+професій, навчається за програмами дуальної освіти 12&nbsp;000 учнів.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><i>Запроваджено сучасні механізми
+професійної орієнтації здобувачів освіти та популяризації робітничих професій:<o:p></o:p></i></span></p><p class="MsoNormal"><span lang="UK">-&nbsp; &nbsp; з метою
+підвищення престижності робітничих професій проведено І&nbsp;(відбірковий) етап
+Всеукраїнського конкурсу професійної майстерності “WORLDSKILLS UKRAINE”. Всього
+у конкурсі за 17 компетенціями взяла участь 1191 особа.</span><span lang="UK"> У 2020 році для&nbsp; проведення ІІ (фінального) етапу
+Всеукраїнського конкурсу у державному бюджеті передбачено 2,2&nbsp;млн.
+гривень;<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>-&nbsp; &nbsp;</span><span>&nbsp;</span>750 осіб взяли
+участь у вебінарі для навчання керівників психологічних служб та практичних
+психологів закладів освіти з питань професійної орієнтації;<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">-&nbsp; &nbsp;&nbsp;для допомоги
+молоді свідомо обрати майбутній фах лише у грудні 2019&nbsp;року проведено 1266
+профорієнтаційних тренінгів за різними професіями у 1028 закладах середньої
+освіти із залученням 33&nbsp;916 учнів 8–11 класів;<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><span>-&nbsp; &nbsp;</span><span>&nbsp;</span>у закладах
+професійної (професійно-технічної) освіти стартували Дні відкритих дверей.
+Прийти на День відкритих дверей у заклад можуть вступники, їх батьки та всі,
+хто хоче підвищити кваліфікацію або змінити фах, опанувавши робітничу професію.
+17 січня 2020 р. МОН оприлюднено графік таких заходів у 21&nbsp; регіоні
+України </span><span lang="UK"><a href="https://mon.gov.ua/ua/news/u-zakladah-profosviti-pochinayut-provoditi-dni-vidkritih-dverej-oprilyudneno-grafik" target="_blank"><span>https://mon.gov.ua/ua/news/u-zakladah-profosviti-pochinayut-provoditi-dni-vidkritih-dverej-oprilyudneno-grafik</span></a></span><span lang="UK">.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Розпочато
+реалізацію Програми ЄС “EU4Skills: Кращі навички для сучасної України” із
+загальним обсягом 58 млн. євро. Передбачено низку заходів, спрямованих на
+покращення управління системою та закладами професійної (професійно-технічної) освіти,
+вивчення та прогнозування ринку праці, розроблення професійних та освітніх
+стандартів, підвищення кваліфікації керівників та педагогічних працівників
+закладів професійної (професійно-технічної) освіти. <o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Крім того, розроблено проект Закону України “Про професійну
+освіту”, яким передбачено створення єдиної системи професійної освіти, що
+поєднує професійну (професійно-технічну) та фахову передвищу освіту, є
+ефективною та відповідає потребам ринку праці.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK"><o:p>&nbsp;</o:p></span><b><b><i><strong>Подальші заплановані дії</strong></i></b></b></p><ul><li><b>Законодавче врегулювання створення єдиної системи професійної освіти – прийняття Закону України “Про професійну освіту”.</b></li><li><b>Проведення аудиту регіональних мереж професійної освіти та розроблення рекомендацій з оптимізації мережі закладів професійної освіти державної та комунальної форми власності.</b></li><li><b>Надання методичної допомоги з розроблення регіональних планів розвитку професійної освіти членам регіональних рад професійної (професійно-технічної) освіти.</b></li><li><b>Прискорення передачі закладів професійної освіти з державної у комунальну власність.</b></li><li><b>Модернізація інфраструктури закладів професійної освіти.</b></li><li><b>Оновлення змісту професійної освіти, зокрема, розроблення стандартів професійної освіти, стандартів оцінювання та освітніх програм на компетентнісній основі.</b></li><li><b>Створення інструментів оцінювання якості професійної освіти.</b></li><li><b>Залучення представників бізнесу до освітнього процесу у закладах професійної освіти.</b></li><li><b>Комунікація реформи професійної освіти та престижності робітничих професій.</b></li></ul>        </div>
+        <div class="office-btn">
+            <a href="/report/program-execution/2019#vipuskniki-skil-maut-sirokij-vibir-zakladiv-dla-zdobutta-akisnoi-profesijnoi-osviti-z-podalsim-pracevlastuvannam" class="btn btn-primary">Переглянути повний звіт</a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+    </div>
+    <button onclick="topFunction()" id="back-btn"><i class="fas fa-angle-up"></i></button>
+</div>
+<footer class="footer">
+    <div class="container">
+    </div>
+</footer>
+
+<script src="/assets/b0e5218f/jquery.js"></script>
+<script src="/assets/e65f7296/yii.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="/js/script.js"></script></body>
+</html>

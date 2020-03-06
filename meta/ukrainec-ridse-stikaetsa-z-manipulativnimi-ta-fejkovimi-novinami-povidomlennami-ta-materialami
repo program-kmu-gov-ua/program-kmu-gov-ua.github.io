@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+<html lang="uk-UA">
+<head>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-149413617-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-149413617-1');
+        </script>
+        <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <meta property="og:image" width="1200" height="630" content="https://program.kmu.gov.ua/image/og.jpg" />
+
+        <title>Програма діяльності Уряду | Українець рідше стикається з маніпулятивними та фейковими новинами, повідомленнями та матеріалами</title>
+    <meta property="og:title" content="Програма діяльності Уряду | Українець рідше стикається з маніпулятивними та фейковими новинами, повідомленнями та матеріалами">
+<meta property="og:type" content="website">
+<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="LZ54N8SsiSkrRF-MYA3lsu16Vo7XdpoBMRX-QnBwXiVGqztPr9_jcFl3OuAibIfWlB0Q779G_F5hUbsMRkkYVA==">
+
+<link href="/assets/d6556b45/css/bootstrap.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+<link href="//use.fontawesome.com/releases/v5.7.2/css/all.css" rel="stylesheet"></head>
+<body>
+<nav class="navbar_box">
+    <div class="container">
+        <div class="row">
+            <ul class="navbar-nav nav hidden-xs">
+                <li class="">
+    <a href="/" title="Програма діяльності">Програма діяльності</a>
+</li>
+<li class="">
+    <a href="/report" title="Звіт Уряду. Топ 100 досягнень">Звіт Уряду. Топ 100 досягнень</a>
+</li>
+<li class="">
+    <a href="/report/program-execution/2019" title="Звіт виконання програми">Звіт з виконання Програми</a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="reports-menu-wrap hidden-sm hidden-md hidden-lg">
+        <a href="/" class="logo-navigation">
+            <img src="/files/logo-kmu.svg" alt="alt">
+        </a>
+        <div class="reports-menu" data-toggle="collapse" data-target=".navbar-collapse">
+            <img src="/files/ic-menu.svg" alt="alt">
+        </div>
+    </div>
+    <!-- Mobile menu -->
+    <div class="hidden-sm hidden-md hidden-lg">
+        <div class="mobile-menu collapse navbar-collapse">
+            <ul class="nav">
+                <li class="">
+    <a href="/" title="Програма діяльності">Програма діяльності</a>
+</li>
+<li class="">
+    <a href="/report" title="Звіт Уряду. Топ 100 досягнень">Звіт Уряду. Топ 100 досягнень</a>
+</li>
+<li class="">
+    <a href="/report/program-execution/2019" title="Звіт виконання програми">Звіт з виконання Програми</a>
+</li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- header -->
+<header class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <a href="/" class="logo-title hidden-xs">
+                    <img src="/files/logo-kmu.svg" alt="#">
+                </a>
+                <h1 class="section-title hidden-sm hidden-md hidden-lg">Уряд&nbsp; <span class="yellow-bg">УКРАЇНИ</span> <span class="ua-bg">ua</span></h1>
+            </div>
+            <div class="col-auto">
+                                                            <div class="link-download">
+                            <a target="_blank" href="/files/План реалізації - Ціль 4.5.(проект).docx" class="btn btn-primary"><i class="fas fa-file-download"></i> Проект концепції та плану</a>
+                        </div>
+                                                </div>
+        </div>
+    </div>
+</header>
+
+<div class="body-bg">
+    <img src="/image/bg.jpg" alt="#">
+</div>
+<section style="padding-top: 0 !important;" class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-head">
+                    <h1 class="section-title hidden-xs">Уряд&nbsp; <span class="yellow-bg">УКРАЇНИ</span> <span class="ua-bg">ua</span></h1>
+                                            <section class="program-title">
+                            <h1 class="">Програма діяльності <br> Кабінету Міністрів УкраЇни</h1>
+                        </section>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+            <section class="section">
+            <div class="container">
+                <ul class="breadcrumb"><li><a href="/">Програма діяльності Уряду</a></li>
+<li title='Міністерство культури, молоді та спорту України' > <a href="/ministry/ministerstvo-kulturi-molodi-ta-sportu-ukraini">Міністерство культури, молоді та спорту...</a></li><li class="active">4.5. Українець рідше стикається з маніпулятивними...</li>
+</ul>            </div>
+        </section>
+    <div class="goal-section">
+    <div class="container">
+        <div class="row">
+    <div class="col-12 col-sm-4 order-2">
+        <div class="office-block ministry">
+    <div class="office-title">
+        Міністерство культури, молоді та спорту України    </div>
+    <div class="office-boss">
+        <div class="boss-ava">
+            <img src="/image/users/160x160/U_df1e797f-7838-4765-84d7-b114e3fc63d1-1575191134.jpg" alt="#">
+        </div>
+        <div class="boss-name-block">
+            <div class="boss-name"><b>Бородянський Володимир</b></div>
+            <div class="boss-work">Міністр</div>
+        </div>
+    </div>
+    <div class="office-btn">
+        <a href="/ministry/ministerstvo-kulturi-molodi-ta-sportu-ukraini" class="btn btn-primary"><i class="fa fa-university"></i> Сторінка
+            міністерства</a>
+    </div>
+            <div class="office-btn">
+            <a href="http://mip.gov.ua/content/kontakti.html" target="_blank" class="btn btn-primary"><i
+                        class="fa fa-envelope"></i> Зворотній зв'зок</a>
+        </div>
+    </div>
+
+    <div class="office-block responsives">
+        <div class="office-title">
+            Відповідальний        </div>
+        <div class="goals-desc">
+            <ul>
+                                    <li>Максимчук Анатолій Олександрович                        <div>
+                            <i>
+                                <small>
+                                    Заступник міністра                                </small>
+                            </i>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+
+<div class="office-block responsives" id="sticky-navigation">
+    <div class="office-title">Навігація</div>
+    <div class="goals-desc">
+        <ul>
+            <li><a href="#step_1">Ціль</a></li>
+            <li><a href="#step_2">Проблема політики</a></li>
+            <li><a href="#step_3">Пропонований курс політики</a></li>
+            <li><a href="#step_4">Проект плану реалізації концепції політики</a></li>
+                        <li><a href="#step_5">Звіт з виконання цілі</a></li>
+                    </ul>
+    </div>
+</div>
+    </div>
+    <div class="col-12 col-sm-8">
+        
+<h2 class="block-title"><a name="step_1">Ціль</a></h2>
+<div class="office-block">
+    <div class="office-title">
+        <i class="fas fa-flag"></i> Ціль
+    </div>
+    <div class="goals-desc">
+        <h3 class="sub-title">4.5. Українець рідше стикається з маніпулятивними та фейковими новинами, повідомленнями та матеріалами</h3>
+                    <div class="all-text"><p>В умовах гібридної війни важливими є навички критичного мислення, усвідомленого споживання інформаційних продуктів, стійкості до маніпуляцій та агресивних новин. Проте в інтенсивному інформаційному потоці навіть людина, яка критично мислить, може бути введена в оману маніпулятивною, фейковою інформацією. Це може спонукати її до висновків або дій, що зрештою їй нашкодять в інтересах маніпулятора.</p>
+
+<p>Тому ми створимо належні умови для ринку медіа послуг, розширимо можливості для інформування населення на тимчасово окупованих територіях, а також стимулюватимемо створення якісного інформаційного простору через ідентифікацію маніпулятивного контенту (використовуючи інструменти співрегулювання і саморегулювання) та реалізації програми підтримки створення медіа продуктів, що протидіятимуть інформаційній агресії.</p>
+
+<p>Окрема увага буде приділена роботі з інформаційними атаками з боку країни агресора з метою зниження їх впливу на громадян України, зокрема через вжиття заходів для зменшення споживання контенту держави-агресора мінімум вдвічі.</p>
+
+<p>Це дозволить у своїй сукупності зменшити шкоду, що завдається громадянам України внаслідок поширення фейків, зокрема зменшити кількість соціальних конфліктів.</p>
+</div>
+            <p><a href="#" class="moretext"><span class="visible-open">Згорнути</span><span class="hidden-open">Переглянути більше</span><i
+                            class="fas fa-chevron-down"></i></a></p>
+            </div>
+</div>
+
+    <h2 class="block-title">ПРОЕКТ Концепції державної політики щодо досягнення цілі 4.5. «Українець рідше стикається з маніпулятивними та фейковими новинами, повідомленнями та матеріалами» Програми діяльності Кабінету Міністрів України</h2>
+
+    <h2 class="block-title"><a name="step_2">1. Проблема політики</a></h2>
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-exclamation-circle"></i>1.1. Українці щоденно стикаються з дезінформаційним контентом - новинним та суспільно-політичним        </div>
+        <div class="goals-desc">
+            <div class="stak-block">
+                <div class="stak-img">
+                    <i class="fas fa-users"></i>
+                </div>
+                <div class="stak-desc">
+                                            <div class="stak-name">1.2. Носій проблеми
+                            (клієнт; суспільна група, яка страждає від проблеми)
+                        </div>
+                                        <div>
+                        Українські громадяни (як на підконтрольній Уряду України території, так і на тимчасово окупованих територіях), які споживають новинний та суспільно-політичний контент                    </div>
+                </div>
+            </div>
+
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.3. Масштаб проблеми</div>
+                    <div>
+                        <span class="badge badge-danger">Загальнонаціональна</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p><p>95% населення України. Дезінформаційний контент розповсюджується російськими та окремими українськими медіа, юридичними та фізичними особами</p>
+</p>
+                </div>
+            </div>
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.4. Гострота проблеми</div>
+                    <div>
+                        <span class="badge badge-danger">Гостра</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p>Проблема є гострою, оскільки наявність дезінформаційного контенту в медіа, призводить до того, що медіа використовуються країною-агресором, її прибічниками в Україні, та деякими українськими політичними силами, для впливу на суспільну думку з метою донесення російських наративів, впливу на результати виборів, підриву довіри до інституцій державної влади, дестабілізації ситуації в Україні.&nbsp; При цьому, відповідно до Опитування &laquo;Ставлення населення до ЗМІ та споживання різних типів медіа у 2019 р.&raquo;, здійсненого компанією InMind на замовлення USAID та INTERNEWS, 75 % опитаних обізнані з тим, що в медіа розповсюджуються&nbsp; дезінформаційні матеріали. 65% з них, сказали, що можуть відрізнити правдиві матеріали від дезінформаційних. І лише 11% з цих 65%&nbsp; змогли реально ідентифікувати дезінформаційні матеріали</p>
+                </div>
+            </div>
+            <div class="problem-block">
+                <div class="problem-head">
+                    <div class="problem-name">1.5. Динаміка проблеми</div>
+                    <div>
+                        <span class="badge badge-danger">Негативна</span>
+                    </div>
+                </div>
+                <div class="problem-body">
+                    <p><p>З початку гібридної війни РФ проти України, обсяги дезінформаційного контенту постійно зростають. Невжиття заходів щодо протидії розповсюдженню дезінформаційного контенту несе пряму загрозу інформаційній безпеці нашої країни</p>
+</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-list"></i>1.6. Причини проблеми
+        </div>
+        <div class="goals-desc">
+            <div class="block-group-wrap">
+                                    <div class="block-group">
+                        <h5>Причина 1 &ndash; Відсутні ефективні інструменти (в тому числі, на законодавчому рівні) протидії інформаційній агресії</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 2 &ndash; Не налагоджено ефективну співпрацю різних державних інституцій у сфері виявлення та протидії дезінформаційним операціям спрямованим на державу, державні інституції</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 3 &ndash; Низький рівень медіа грамотності серед українців</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 4 &ndash; Низький рівень проникнення наземного ефірного сигналу українських телерадіокомпаній на територію проведення ООС та ТОТ</h5>
+                                            </div>
+                                    <div class="block-group">
+                        <h5>Причина 5 &ndash; Невелика кількість в інформаційному просторі ТОТ контенту, який спрямований на реінтеграцію в український інформаційний і культурний простір мирного населення, що проживає на ТОТ</h5>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+
+<div class="office-block">
+    <div class="office-title">
+                    <i class="fas fa-chart-pie"></i>1.7. Показники ефективності політики
+            </div>
+    <div class="goals-desc">
+        <ul>
+                            <li>Обсяг маніпулятивного контенту знизився вдвічі (індекс)</li>
+                            <li>Споживання контенту держави-агресора знизилось вдвічі</li>
+                    </ul>
+    </div>
+</div>
+
+
+    <h2 class="block-title"><a name="step_3">2. Пропонований курс політики</a></h2>
+            <div class="office-block">
+            <div class="office-title">
+                <i class="fas fa-list"></i> Підцілі
+            </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        1. Зменшення кількості маніпулятивного та дезінформаційного контенту в медійному просторі України, обмеження доступу до російського контенту в українських медіа                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Кількість маніпулятивного та дезінформаційного контенту в українських медіа має зменшитись щонайменше у два рази</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Введення заборони на володіння та/або фінансування українських медіа юридичними особами та/або фізичними особами країни-агресора</li>
+                                                                                            <li>Введення обов’язкової процедури реєстрації медіа в Україні</li>
+                                                                                            <li>Внесення в чинне законодавство критеріїв дезінформаційного контенту</li>
+                                                                                            <li>Введення кримінальної відповідальності за умисне систематичне розповсюдження дезінформаційного контенту</li>
+                                                                                            <li>Створення й забезпечення умов для здійснення журналістами їх законної діяльності</li>
+                                                                                            <li>Створення й забезпечення умов для фізичного, юридичного, соціального захисту журналістів</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        2. Створення міжвідомчої системи виявлення та протидії інформаційним операціям, спрямованим на державу, державні інституції, авторитет публічної влади тощо                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Ефективне реагування з боку державних інституцій на відповідні інформаційні операції відбувається протягом 3-4 годин з моменту їх виявлення</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Розробка та затвердження ключових документів щодо попередження та протидії інформаційним загрозам</li>
+                                                                                            <li>Організація взаємодії на базі міжвідомчої системи попередження та протидії інформаційним загрозам між МЗС, СБУ, МО, РНБО, МВС, СКМУ, МКМС, Держспецзв’язку</li>
+                                                                                            <li>Організація на базі МКМС  моніторингово-аналітичного центру, який в режимі 24/7 буде здійснювати моніторинг інформаційного поля, виявляти інформаційні загрози,  здійснювати їх аналіз і оцінку, розробляти варіанти рішень стосовно протидії виявленим загрозам на кроссекторальному рівні</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        3. Підвищення медіаграмотності громадян                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Відсоток громадян, здатних ідентифікувати дезінформаційний контент має зрости до 50% протягом п’яти років</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Розробка та затвердження на рівні Уряду програми підвищення медіаграмотності громадян</li>
+                                                                                            <li>Створення міжвідомчої робочої групи з питань реалізації програми підвищення медіаграмотності громадян</li>
+                                                                                            <li>Розробка та запуск цифрових інструментів (сайти, мобільні додатки тощо) для формування практичних навичок виявлення дезінформаційного контенту</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        4. Забезпечення доступу населення, що проживає в зоні проведення ООС, на ТОТ, а також на територіях, які межують з РФ до українського розважального, інформаційного, суспільно-політичного контенту                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Кількість населення в зоні проведення ООС, на ТОТ, а також на територіях, які межують з РФ, що має доступ до українського розважального, інформаційного, суспільно-політичного контенту має становити не менше ніж 80%</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Виявлення «білих плям» в покритті ефірним сигналом українських мовників на території ООС та ТОТ, а також на територіях, які межують з РФ</li>
+                                                                                            <li>Збільшення території покриття наземним ефірним сигналом українських мовників (аналоговим та цифровим) в зоні проведення ООС та ТОТ, а також на територіях, які межують з РФ</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                            <div class="collapse-block">
+                    <div class="collapse-title">
+                        5. Збільшення в інформаційному просторі ТОТ контенту, який спрямований на реінтеграцію в український інформаційний і культурний простір мирного населення, що проживає на ТОТ                    </div>
+                    <div class="collapse-desc goals-desc">
+                                                    <h5>Показники результативності:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Кількість контенту в інформаційному просторі ТОТ, який спрямований на реінтеграцію в український інформаційний і культурний простір мирного населення, що проживає на ТОТ збільшилась в два рази</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                                            <h5>Завдання до підцілі:</h5>
+                            <div class="block-group-wrap">
+                                <div class="block-group">
+                                    <div class="on-line ml-2">
+                                        <ul>
+                                                                                            <li>Запуск на базі платформи іномовлення інформаційно-розважального телеканалу, контент якого буде спрямований на реінтеграцію жителів ТОТ в український культурний простір</li>
+                                                                                            <li>Запуск на базі платформи іномовлення інформаційного телеканалу, контент якого буде спрямований на реінтеграцію жителів ТОТ в український інформаційний простір</li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                    </div>
+    
+    
+    <h2 class="block-title"><a name="step_4">Проект плану реалізації концепції політики</a></h2>
+    <div class="office-block">
+        <div class="office-title">
+            <i class="fas fa-list"></i> Заходи
+        </div>
+        <div class="goals-desc">
+            <div class="" style="width: 100%; overflow-x: auto">
+                <table class="table">
+                                            <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Введення заборони на володіння та/або фінансування українських медіа юридичними особами та/або фізичними особами країни-агресора                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка і узгодження моделі та інструментів боротьби з дезінформацією</td>
+                                    <td>01.11.2019</td>
+                                    <td>28.02.2020</td>
+                                    <td>МКМС; Національна рада з питань телебачення і радіомовлення (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Обговорення в різних форматах моделі та інструментарію із зацікавленими особами</td>
+                                    <td>01.11.2019</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС; Національна рада з питань телебачення і радіомовлення (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка та адвокація ухвалення необхідних законопроектів</td>
+                                    <td>01.11.2019</td>
+                                    <td>01.05.2020</td>
+                                    <td>МКМС; Національна рада з питань телебачення і радіомовлення (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечення практичної реалізації моделі боротьби з дезінформацією в інформаційному просторі України</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС; Національна рада з питань телебачення і радіомовлення (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка реалізація інформаційних кампаній</td>
+                                    <td>01.02.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС; Національна рада з питань телебачення і радіомовлення (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Введення обов’язкової процедури реєстрації медіа в Україні                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка і узгодження моделі</td>
+                                    <td>01.11.2019</td>
+                                    <td>28.02.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Обговорення в різних форматах моделі та інструментарію із зацікавленими особами</td>
+                                    <td>01.11.2019</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка та адвокація ухвалення необхідних законопроектів</td>
+                                    <td>01.11.2019</td>
+                                    <td>01.05.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечення практичної реалізації моделі</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Внесення в чинне законодавство критеріїв дезінформаційного контенту                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка і узгодження моделі</td>
+                                    <td>01.11.2019</td>
+                                    <td>28.02.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Обговорення в різних форматах моделі та інструментарію із зацікавленими особами</td>
+                                    <td>01.11.2019</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка та адвокація ухвалення необхідних законопроектів</td>
+                                    <td>01.11.2019</td>
+                                    <td>01.05.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечення практичної реалізації моделі</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Введення кримінальної відповідальності за умисне систематичне розповсюдження дезінформаційного контенту                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка і узгодження моделі</td>
+                                    <td>01.11.2019</td>
+                                    <td>28.02.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Обговорення в різних форматах моделі та інструментарію із зацікавленими особами</td>
+                                    <td>01.11.2019</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка та адвокація ухвалення необхідних законопроектів</td>
+                                    <td>01.11.2019</td>
+                                    <td>01.05.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечення практичної реалізації моделі</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Створення й забезпечення умов для здійснення журналістами їх законної діяльності                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка і узгодження моделі</td>
+                                    <td>01.11.2019</td>
+                                    <td>28.02.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Обговорення в різних форматах моделі та інструментарію із зацікавленими особами</td>
+                                    <td>01.11.2019</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка та адвокація ухвалення необхідних законопроектів</td>
+                                    <td>01.11.2019</td>
+                                    <td>01.05.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечення практичної реалізації моделі</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Створення й забезпечення умов для фізичного, юридичного, соціального захисту журналістів                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка і узгодження моделі</td>
+                                    <td>01.11.2019</td>
+                                    <td>28.02.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Обговорення в різних форматах моделі та інструментарію із зацікавленими особами</td>
+                                    <td>01.11.2019</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка та адвокація ухвалення необхідних законопроектів</td>
+                                    <td>01.11.2019</td>
+                                    <td>01.05.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Забезпечення практичної реалізації моделі</td>
+                                    <td>01.01.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розробка та затвердження ключових документів щодо попередження та протидії інформаційним загрозам                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка концептуальних засад функціонування системи</td>
+                                    <td>01.12.2019</td>
+                                    <td>31.01.2020</td>
+                                    <td>МКМС; МЗС; СБУ; Міноборони; МВС; Мінцифри, Секретаріат Кабінету Міністрів України; Адміністрація Держспецзв’язку; Рада національної безпеки і оборони (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Проведення консультацій із зацікавленими органами</td>
+                                    <td>01.02.2020</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС; МЗС; СБУ; Міноборони; МВС; Мінцифри, Секретаріат Кабінету Міністрів України; Адміністрація Держспецзв’язку; Рада національної безпеки і оборони (за згодою)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка та адвокація ухвалення необхідних нормативно-правових актів</td>
+                                    <td>01.04.2020</td>
+                                    <td>31.07.2020</td>
+                                    <td>МКМС; МЗС; СБУ; Міноборони; МВС; Мінцифри, Секретаріат Кабінету Міністрів України; Адміністрація Держспецзв’язку; Рада національної безпеки і оборони (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Організація взаємодії на базі міжвідомчої системи попередження та протидії інформаційним загрозам між МЗС, СБУ, МО, РНБО, МВС, СКМУ, МКМС, Держспецзв’язку                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Організація ефективної взаємодії між відповідними органами державної влади та обміну інформацією</td>
+                                    <td>01.02.2020</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС; МЗС; СБУ; Міноборони; МВС; Мінцифри, Секретаріат Кабінету Міністрів України; Адміністрація Держспецзв’язку; Рада національної безпеки і оборони (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Організація на базі МКМС  моніторингово-аналітичного центру, який в режимі 24/7 буде здійснювати моніторинг інформаційного поля, виявляти інформаційні загрози,  здійснювати їх аналіз і оцінку, розробляти варіанти рішень стосовно протидії виявленим загрозам на кроссекторальному рівні                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка та запуск програмного продукту</td>
+                                    <td>01.02.2020</td>
+                                    <td>31.08.2021</td>
+                                    <td>МКМС; МЗС; СБУ; Міноборони; МВС; Мінцифри, Секретаріат Кабінету Міністрів України; Адміністрація Держспецзв’язку; Рада національної безпеки і оборони (за згодою)</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розробка та затвердження на рівні Уряду програми підвищення медіаграмотності громадян                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка та затвердження відповідної нормативно-правової бази та методичних матеріалів</td>
+                                    <td>01.02.2020</td>
+                                    <td>30.07.2020</td>
+                                    <td>МКМС; МОН; Мінцифри</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Імплементація програми в різних сферах (освіта, медіа, тощо)</td>
+                                    <td>01.07.2020</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; МОН; Мінцифри</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Створення міжвідомчої робочої групи з питань реалізації програми підвищення медіаграмотності громадян                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Організація ефективної взаємодії між усіма ключовими суб’єктами як серед державних інституцій, так серед не державних</td>
+                                    <td>01.02.2020</td>
+                                    <td>01.10.2020</td>
+                                    <td>МКМС; МОН; Мінцифри</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Розробка та запуск цифрових інструментів (сайти, мобільні додатки тощо) для формування практичних навичок виявлення дезінформаційного контенту                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Придбання/розробка відповідного програмного забезпечення</td>
+                                    <td>01.06.2020</td>
+                                    <td>01.07.2021</td>
+                                    <td>МКМС; МОН; Мінцифри</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка реалізація кампаній з промоції програми</td>
+                                    <td>01.02.2021</td>
+                                    <td>31.12.2023</td>
+                                    <td>МКМС; МОН; Мінцифри</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Виявлення «білих плям» в покритті ефірним сигналом українських мовників на території ООС та ТОТ, а також на територіях, які межують з РФ                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Здійснення моніторингу покриття ефірним сигналом українських мовників на території проведення операції Об’єднаних сил, а також на територіях, які межують з РФ</td>
+                                    <td>01.12.2019</td>
+                                    <td>31.03.2020</td>
+                                    <td>МКМС; Національна рада з питань телебачення і радіомовлення (за згодою); Адміністрація Держспецзв’язку; ДП «УДЦР»</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Збільшення території покриття наземним ефірним сигналом українських мовників (аналоговим та цифровим) в зоні проведення ООС та ТОТ, а також на територіях, які межують з РФ                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Проведення тестових випробувань поширення наземного ефірного сигналу українських мовників на території проведення операції Об’єднаних сил, а також на територіях, які межують з РФ</td>
+                                    <td>31.03.2020</td>
+                                    <td>31.05.2020</td>
+                                    <td>МКМС; Національна рада з питань телебачення і радіомовлення (за згодою); Адміністрація Держспецзв’язку; ДП «УДЦР»</td>
+                                </tr>
+                                                            <tr>
+                                    <td>На підставі моніторингу та випробувань розробка й реалізація плану збільшення покриття та доставки сигналу українських мовників в зону проведення операції Об’єднаних сил, на тимчасово окупованих території, а також на території, які межують з РФ</td>
+                                    <td>01.06.2020</td>
+                                    <td>31.12.2020</td>
+                                    <td>МКМС; Національна рада з питань телебачення і радіомовлення (за згодою); Адміністрація Держспецзв’язку; ДП «УДЦР»</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Запуск на базі платформи іномовлення інформаційно-розважального телеканалу, контент якого буде спрямований на реінтеграцію жителів ТОТ в український культурний простір                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка та узгодження програмних концепцій двох телеканалів</td>
+                                    <td>01.11.2019</td>
+                                    <td>30.07.2020</td>
+                                    <td>МКМС; інші центральні органи виконавчої влади</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Внесення змін до законодавства</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.03.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Створення/придбання відповідного контенту з метою забезпечення реалізації концепцій</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.07.2020</td>
+                                    <td>МКМС; інші центральні органи виконавчої влади</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка реалізація кампаній з промоції телеканалів</td>
+                                    <td>01.03.2020</td>
+                                    <td>30.07.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                                <tr>
+                            <td colspan="4" style="padding:20px 10px; background-color: rgba(243, 244, 251, 0.39)">
+                                <strong>Завдання:</strong> Запуск на базі платформи іномовлення інформаційного телеканалу, контент якого буде спрямований на реінтеграцію жителів ТОТ в український інформаційний простір                            </td>
+                        </tr>
+                                                    <tr>
+                                <th>Захід</th>
+                                <th>Дата початку</th>
+                                <th>Дата завершення</th>
+                                <th>Відповідальні</th>
+                            </tr>
+                                                            <tr>
+                                    <td>Розробка та узгодження програмних концепцій двох телеканалів</td>
+                                    <td>01.11.2019</td>
+                                    <td>30.07.2020</td>
+                                    <td>МКМС; інші центральні органи виконавчої влади</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Внесення змін до законодавства</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.03.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Створення/придбання відповідного контенту з метою забезпечення реалізації концепцій</td>
+                                    <td>01.01.2020</td>
+                                    <td>30.07.2020</td>
+                                    <td>МКМС; інші центральні органи виконавчої влади</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Розробка реалізація кампаній з промоції телеканалів</td>
+                                    <td>01.03.2020</td>
+                                    <td>30.07.2020</td>
+                                    <td>МКМС</td>
+                                </tr>
+                                                                                        </table>
+            </div>
+        </div>
+    </div>
+
+    <h2 class="block-title"><a name="step_5">Звіт з виконання цілі</a></h2>
+<div class="office-block">
+    <div class="office-title">
+        <i class="fas fa-list"></i> Звіт 2019
+    </div>
+    <div class="goals-desc">
+        <div class="text text-report-content">
+            <p class="MsoNormal"><span lang="UK">Розроблено та винесено на публічне обговорення проект Закону
+України “Про внесення змін до деяких законодавчих актів України щодо
+забезпечення національної інформаційної безпеки та права на доступ до
+достовірної інформації”,</span><span lang="UK">
+</span><span lang="UK">метою якого є зменшення
+обсягів дезінформаційного контенту в інформаційному просторі України.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Розроблено концепцію виявлення, аналізу і протидії
+дезінформації в інформаційному просторі України та моніторингово-аналітичного
+центру, який в режимі 24/7 буде здійснювати моніторинг інформаційного поля,
+виявляти інформаційні загрози, здійснювати їх аналіз і оцінку, розробляти
+варіанти рішень стосовно протидії виявленим загрозам на кроссекторальному
+рівні.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">На базі платформи іномовлення 15 лютого 2020 р. буде запущено
+ефірний розважально-інформаційний телеканал для жителів тимчасово окупованих
+територій, який розширить доступ та підвищить в інформаційному просторі
+тимчасово окупованих територій обсяг контенту, спрямованого на реінтеграцію до
+українського інформаційно-культурного простору мирного населення, що проживає
+на тимчасово окупованих територіях.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Знайдено та протестовано технічне рішення щодо забезпечення
+сигналом населення у Донецькій, Луганській і Херсонській областях,
+підконтрольних та непідконтрольних територіях, на лінії розмежування на сході,
+а також на півдні Херсонської області і півночі Автономної Республіки Крим.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Розроблено опитувальник </span><span lang="UK">для регулярних репрезентативних
+соціологічних досліджень (омнібус) щодо визначення обсягу маніпулятивного
+контенту.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK">Організовано і проведено у м. Маріуполь 29–30 жовтня 2019
+року Форум єдності за участю Президента України, міжнародних партнерів та
+професійної спільноти, де започатковано діалог щодо шляхів та термінів
+реінтеграції населення, яке проживає на тимчасово-окупованій території.<o:p></o:p></span></p><p class="MsoNormal"><strong><i><span lang="UK">Подальші
+заплановані дії</span><span lang="UK"><o:p></o:p></span></i></strong></p><p class="MsoNormal"><span lang="UK"><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Медіа та інформаційна політика:<o:p></o:p></i></span></p><ul><li><span lang="UK">розвиток ефірного
+інформаційно-розважального телеканалу, який буде транслюватися в зоні
+проведення операції Об’єднаних сил та на тимчасово окупованих територіях,
+розширення території його мовлення;</span></li><li><span>подання до Верховної Ради
+України проекту Закону України “Про внесення змін до деяких законодавчих актів
+України щодо забезпечення національної інформаційної безпеки та права на доступ
+до достовірної інформації” та супроводження його у Верховній Раді України;</span></li><li><span>розроблення за запуск загальнонаціональної
+програми підвищення медіаграмотності, орієнтованої на різні аудиторії.</span></li></ul><p class="MsoListParagraph"><span lang="UK"><i>Розвиток українського
+кіно:<o:p></o:p></i></span></p><ul><li><span lang="UK">запуск системи “cash rebates”
+та зміна умов надання державної підтримки на виробництво фільмів з метою
+підвищення її ефективності;</span></li><li><span>розроблення системи “Електронний
+квиток”, яка дозволяє аналізувати збори та відвідуваність в кінотеатрах в
+режимі реального часу;</span></li><li><span>розроблення та затвердження концепції
+державно-приватного партнерства з метою реновації Національної кіностудії ім.
+О. Довженка.</span></li></ul>        </div>
+        <div class="office-btn">
+            <a href="/report/program-execution/2019#ukrainec-ridse-stikaetsa-z-manipulativnimi-ta-fejkovimi-novinami-povidomlennami-ta-materialami" class="btn btn-primary">Переглянути повний звіт</a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+    </div>
+    <button onclick="topFunction()" id="back-btn"><i class="fas fa-angle-up"></i></button>
+</div>
+<footer class="footer">
+    <div class="container">
+    </div>
+</footer>
+
+<script src="/assets/b0e5218f/jquery.js"></script>
+<script src="/assets/e65f7296/yii.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="/js/script.js"></script></body>
+</html>
